@@ -10,7 +10,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List
-href="Att%20känna%20igen%20autentiska%20fotografier%20i%20en%20AI%20RAPORT-filer/filelist.xml">
+href="Att%20kÃ¤nna%20igen%20autentiska%20fotografier%20i%20en%20AI%20RAPORT-filer/filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Krystian Madejski</o:Author>
@@ -33,9 +33,9 @@ href="Att%20känna%20igen%20autentiska%20fotografier%20i%20en%20AI%20RAPORT-filer
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=themeData
-href="Att%20känna%20igen%20autentiska%20fotografier%20i%20en%20AI%20RAPORT-filer/themedata.thmx">
+href="Att%20kÃ¤nna%20igen%20autentiska%20fotografier%20i%20en%20AI%20RAPORT-filer/themedata.thmx">
 <link rel=colorSchemeMapping
-href="Att%20känna%20igen%20autentiska%20fotografier%20i%20en%20AI%20RAPORT-filer/colorschememapping.xml">
+href="Att%20kÃ¤nna%20igen%20autentiska%20fotografier%20i%20en%20AI%20RAPORT-filer/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:TrackMoves/>
@@ -1575,266 +1575,266 @@ word-wrap:break-word'>
 
 <div class=WordSection1>
 
-<p class=MsoNormal><b>Att känna igen autentiska fotografier i en AI-era: En
-litteraturöversikt<o:p></o:p></b></p>
+<p class=MsoNormal><b>Att kÃ¤nna igen autentiska fotografier i en AI-era: En
+litteraturÃ¶versikt<o:p></o:p></b></p>
 
 <p class=MsoNormal><b>Inledning<o:p></o:p></b></p>
 
-<p class=MsoNormal>I takt med att artificiell intelligens (AI) möjliggör
-skapandet av allt mer fotorealistiska bilder har utmaningen att avgöra om en
-bild är äkta eller manipulerad blivit akut. Manipulerade eller helt syntetiska
-fotografier förekommer nu frekvent i nyhetsflöden och på sociala medier, vilket
-spär på desinformation&#8203;<a
+<p class=MsoNormal>I takt med att artificiell intelligens (AI) mÃ¶jliggÃ¶r
+skapandet av allt mer fotorealistiska bilder har utmaningen att avgÃ¶ra om en
+bild Ã¤r Ã¤kta eller manipulerad blivit akut. Manipulerade eller helt syntetiska
+fotografier fÃ¶rekommer nu frekvent i nyhetsflÃ¶den och pÃ¥ sociala medier, vilket
+spÃ¤r pÃ¥ desinformation&#8203;<a
 href="https://pubmed.ncbi.nlm.nih.gov/33392404/#:~:text=Photos%20have%20been%20used%20as,term%20refers%20to%20the%20process"
 target="_blank">pubmed.ncbi.nlm.nih.gov</a>. Flera fall under 2020-talet har
-visat att både allmänhet och experter kan luras av AI-genererade bilder. En
-färsk studie fann till exempel att försökspersoner bara kunde skilja
-AI-genererade porträtt från verkliga människor i 61&nbsp;% av fallen&#8203;<a
+visat att bÃ¥de allmÃ¤nhet och experter kan luras av AI-genererade bilder. En
+fÃ¤rsk studie fann till exempel att fÃ¶rsÃ¶kspersoner bara kunde skilja
+AI-genererade portrÃ¤tt frÃ¥n verkliga mÃ¤nniskor i 61&nbsp;% av fallen&#8203;<a
 href="https://www.sciencedaily.com/releases/2024/03/240306003456.htm#:~:text=Participants%20were%20asked%20to%20label,cent%20threshold%20that%20researchers%20expected"
-target="_blank">sciencedaily.com</a> – knappt bättre än slumpen. Samtidigt
+target="_blank">sciencedaily.com</a> Â– knappt bÃ¤ttre Ã¤n slumpen. Samtidigt
 sprids vilseledande bilder snabbt, vilket underminerar det klassiska antagandet
-att <i>“seeing is believing”</i> (att se är att tro). Denna rapport är en
-strukturerad litteraturöversikt över aktuella forskningsrön (2021–2025) om hur
-man känner igen autentiska fotografier i media i en era präglad av
-AI-genererade bilder, visuell manipulation och desinformation. Översikten
-vänder sig till lärare inom fotografins filosofi, press- och konstfotografer
-samt studenter, med syftet att analysera metoder för bildverifiering,
+att <i>Â“seeing is believingÂ”</i> (att se Ã¤r att tro). Denna rapport Ã¤r en
+strukturerad litteraturÃ¶versikt Ã¶ver aktuella forskningsrÃ¶n (2021Â–2025) om hur
+man kÃ¤nner igen autentiska fotografier i media i en era prÃ¤glad av
+AI-genererade bilder, visuell manipulation och desinformation. Ã–versikten
+vÃ¤nder sig till lÃ¤rare inom fotografins filosofi, press- och konstfotografer
+samt studenter, med syftet att analysera metoder fÃ¶r bildverifiering,
 pedagogiska strategier och etiska perspektiv.</p>
 
-<p class=MsoNormal>Rapporten är organiserad tematiskt. Först behandlas <b>tekniska
-metoder</b> – hur man genom analyser av själva bildfilen och dess egenskaper
-kan påvisa äkthet eller manipulation. Därefter gås <b>kontextuella metoder</b>
-igenom – hur omständigheterna kring en bild (källa, tid, plats, vittnesmål) kan
-bekräfta eller vederlägga dess autenticitet. Vi presenterar sedan vanliga <b>verktyg
-och tekniker</b> som används i journalistisk och pedagogisk praktik för
-bildverifiering, med en tabellöversikt. Nästa avsnitt behandlar <b>utbildningsmässiga
-tillvägagångssätt och mediepedagogik</b>, inklusive hur visuell källkritik och
-“visuell läskunnighet” integreras i utbildning. Vidare diskuteras <b>fallstudier</b>
-på lyckad och misslyckad verifiering – konkreta exempel där verifieringsmetoder
-satts på prov. Slutligen belyses <b>etiska perspektiv</b> på bildanvändning,
-både inom nyhetsjournalistik och konstnärliga sammanhang. Genomgående
-eftersträvas en akademisk ton med stöd i vetenskapliga artiklar, fallstudier
-och översikter från de senaste åren. (Observera att policyrekommendationer
-utelämnas; fokus ligger på analys och metodik.)</p>
+<p class=MsoNormal>Rapporten Ã¤r organiserad tematiskt. FÃ¶rst behandlas <b>tekniska
+metoder</b> Â– hur man genom analyser av sjÃ¤lva bildfilen och dess egenskaper
+kan pÃ¥visa Ã¤kthet eller manipulation. DÃ¤refter gÃ¥s <b>kontextuella metoder</b>
+igenom Â– hur omstÃ¤ndigheterna kring en bild (kÃ¤lla, tid, plats, vittnesmÃ¥l) kan
+bekrÃ¤fta eller vederlÃ¤gga dess autenticitet. Vi presenterar sedan vanliga <b>verktyg
+och tekniker</b> som anvÃ¤nds i journalistisk och pedagogisk praktik fÃ¶r
+bildverifiering, med en tabellÃ¶versikt. NÃ¤sta avsnitt behandlar <b>utbildningsmÃ¤ssiga
+tillvÃ¤gagÃ¥ngssÃ¤tt och mediepedagogik</b>, inklusive hur visuell kÃ¤llkritik och
+Â“visuell lÃ¤skunnighetÂ” integreras i utbildning. Vidare diskuteras <b>fallstudier</b>
+pÃ¥ lyckad och misslyckad verifiering Â– konkreta exempel dÃ¤r verifieringsmetoder
+satts pÃ¥ prov. Slutligen belyses <b>etiska perspektiv</b> pÃ¥ bildanvÃ¤ndning,
+bÃ¥de inom nyhetsjournalistik och konstnÃ¤rliga sammanhang. GenomgÃ¥ende
+efterstrÃ¤vas en akademisk ton med stÃ¶d i vetenskapliga artiklar, fallstudier
+och Ã¶versikter frÃ¥n de senaste Ã¥ren. (Observera att policyrekommendationer
+utelÃ¤mnas; fokus ligger pÃ¥ analys och metodik.)</p>
 
-<p class=MsoNormal><b>Tekniska metoder för bildverifiering<o:p></o:p></b></p>
+<p class=MsoNormal><b>Tekniska metoder fÃ¶r bildverifiering<o:p></o:p></b></p>
 
-<p class=MsoNormal>Tekniska metoder för att verifiera en bilds autenticitet
-fokuserar på själva bildfilens innehåll och data. Ett första steg är ofta att
-undersöka bildens <b>metadata (EXIF-data)</b>&#8203;<a
+<p class=MsoNormal>Tekniska metoder fÃ¶r att verifiera en bilds autenticitet
+fokuserar pÃ¥ sjÃ¤lva bildfilens innehÃ¥ll och data. Ett fÃ¶rsta steg Ã¤r ofta att
+undersÃ¶ka bildens <b>metadata (EXIF-data)</b>&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=First%2C%20check%20if%20the%20image,com%20to%20generate%20an%20EXIF"
-target="_blank">datajournalism.com</a>. Originalfotografier från digitalkameror
-bäddar vanligen in metadata som kameramodell, exponeringstid, datum och
-geografisk plats. Avsaknad av sådan information kan vara en varningssignal – om
-en bild påstås vara ett nytaget foto men saknar kameradata, eller endast
-innehåller generiska metadata, kan det tyda på att bilden inte kommer direkt
-från en kamera&#8203;<a
+target="_blank">datajournalism.com</a>. Originalfotografier frÃ¥n digitalkameror
+bÃ¤ddar vanligen in metadata som kameramodell, exponeringstid, datum och
+geografisk plats. Avsaknad av sÃ¥dan information kan vara en varningssignal Â– om
+en bild pÃ¥stÃ¥s vara ett nytaget foto men saknar kameradata, eller endast
+innehÃ¥ller generiska metadata, kan det tyda pÃ¥ att bilden inte kommer direkt
+frÃ¥n en kamera&#8203;<a
 href="https://capacanada.ca/content-authentication-photographs-vs-ai-generative-images/#:~:text=enhance%20image%20quality%2C%20remove%20imperfections%2C,generative%20images"
 target="_blank">capacanada.ca</a>. Dock ska man vara medveten om att sociala
 medier ofta <b>tar bort metadata</b> automatiskt vid uppladdning&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=One%20note%20of%20caution%20here%3A,be%20an%20exception%20to%20this"
-target="_blank">datajournalism.com</a>. Att en bildfil saknar EXIF-data är
-alltså inte ett definitivt bevis på oäkthet, men i kombination med andra fynd
-kan det stärka misstanken. I vissa fall kan metadataanalys rentav avslöja
-direkta motsägelser – exempelvis om datumstämpeln inte överensstämmer med det
-påstådda tidpunkten för händelsen.</p>
+target="_blank">datajournalism.com</a>. Att en bildfil saknar EXIF-data Ã¤r
+alltsÃ¥ inte ett definitivt bevis pÃ¥ oÃ¤kthet, men i kombination med andra fynd
+kan det stÃ¤rka misstanken. I vissa fall kan metadataanalys rentav avslÃ¶ja
+direkta motsÃ¤gelser Â– exempelvis om datumstÃ¤mpeln inte Ã¶verensstÃ¤mmer med det
+pÃ¥stÃ¥dda tidpunkten fÃ¶r hÃ¤ndelsen.</p>
 
-<p class=MsoNormal>En annan teknisk metod är <b>digital bildforensik</b>,
+<p class=MsoNormal>En annan teknisk metod Ã¤r <b>digital bildforensik</b>,
 vilket inkluderar en rad algoritmiska analyser av pixlar och
-komprimeringsmönster. Genom verktyg som exempelvis FotoForensics eller
-Forensically kan man utföra <i>Error Level Analysis (ELA)</i>, som visualiserar
-komprimeringsartefakter för att upptäcka om delar av bilden är inkopierade
-eller manipulerade. Andra funktioner kan avslöja duplicerade mönster (till
-exempel om ett objekt klonats inom bilden) eller inkonsekvent brusnivå i olika
-områden&#8203;<a
+komprimeringsmÃ¶nster. Genom verktyg som exempelvis FotoForensics eller
+Forensically kan man utfÃ¶ra <i>Error Level Analysis (ELA)</i>, som visualiserar
+komprimeringsartefakter fÃ¶r att upptÃ¤cka om delar av bilden Ã¤r inkopierade
+eller manipulerade. Andra funktioner kan avslÃ¶ja duplicerade mÃ¶nster (till
+exempel om ett objekt klonats inom bilden) eller inkonsekvent brusnivÃ¥ i olika
+omrÃ¥den&#8203;<a
 href="https://pubmed.ncbi.nlm.nih.gov/33392404/#:~:text=repeated%20measures%20experiment%20was%20conducted,comprehension%20and%20utilization%20by%20ordinary"
-target="_blank">pubmed.ncbi.nlm.nih.gov</a>. I en studie där experter fick
-använda sådana verifieringsalgoritmer fann man att dessa ofta underlättade
-upptäckt av manipulationer – men resultaten kunde vara tvetydiga utan rätt
+target="_blank">pubmed.ncbi.nlm.nih.gov</a>. I en studie dÃ¤r experter fick
+anvÃ¤nda sÃ¥dana verifieringsalgoritmer fann man att dessa ofta underlÃ¤ttade
+upptÃ¤ckt av manipulationer Â– men resultaten kunde vara tvetydiga utan rÃ¤tt
 tolkning&#8203;<a
 href="https://pubmed.ncbi.nlm.nih.gov/33392404/#:~:text=people%2C%20involved%20in%20the%20everyday,automations%20and%20the%20human%20experience"
-target="_blank">pubmed.ncbi.nlm.nih.gov</a>. Det krävs därför kompetens för att
-dra korrekta slutsatser av forensiska verktyg, då de kan indikera anomalier som
-måste bedömas av en människa.</p>
+target="_blank">pubmed.ncbi.nlm.nih.gov</a>. Det krÃ¤vs dÃ¤rfÃ¶r kompetens fÃ¶r att
+dra korrekta slutsatser av forensiska verktyg, dÃ¥ de kan indikera anomalier som
+mÃ¥ste bedÃ¶mas av en mÃ¤nniska.</p>
 
 <p class=MsoNormal>Nyare tekniska metoder involverar <b>AI-baserade detektorer</b>
-som försöker skilja på datorgenererade och äkta fotografier. Dessa tränas på
-karakteristiska artefakter som kvarstår i syntetiska bilder. Vissa öppna
-webbtjänster (t.ex. <i>AI Or Not</i> och <i>Hive AI Detector</i>) har
-rapporterats nå över 90&nbsp;% träffsäkerhet under gynnsamma
-förhållanden&#8203;<a
+som fÃ¶rsÃ¶ker skilja pÃ¥ datorgenererade och Ã¤kta fotografier. Dessa trÃ¤nas pÃ¥
+karakteristiska artefakter som kvarstÃ¥r i syntetiska bilder. Vissa Ã¶ppna
+webbtjÃ¤nster (t.ex. <i>AI Or Not</i> och <i>Hive AI Detector</i>) har
+rapporterats nÃ¥ Ã¶ver 90&nbsp;% trÃ¤ffsÃ¤kerhet under gynnsamma
+fÃ¶rhÃ¥llanden&#8203;<a
 href="https://capacanada.ca/content-authentication-photographs-vs-ai-generative-images/#:~:text=With%20the%20exception%20for%20Adobe,image%20creations"
-target="_blank">capacanada.ca</a>. En utvärdering med 1000 testbilder (900
-AI-genererade från olika system och 100 riktiga fotografier) visade att dessa
-detektorer kunde identifiera AI-bilder med 97–99&nbsp;% genomsnittlig
-säkerhet&#8203;<a
+target="_blank">capacanada.ca</a>. En utvÃ¤rdering med 1000 testbilder (900
+AI-genererade frÃ¥n olika system och 100 riktiga fotografier) visade att dessa
+detektorer kunde identifiera AI-bilder med 97Â–99&nbsp;% genomsnittlig
+sÃ¤kerhet&#8203;<a
 href="https://capacanada.ca/content-authentication-photographs-vs-ai-generative-images/#:~:text=With%20the%20exception%20for%20Adobe,image%20creations"
-target="_blank">capacanada.ca</a>. Emellertid sjönk precisionen dramatiskt för
-vissa avancerade genereringssystem – i försöket missade detektorerna många av
-Adobes <i>Firefly</i>-genererade bilder, med endast 36–63&nbsp;%
-pålitlighet&#8203;<a
+target="_blank">capacanada.ca</a>. Emellertid sjÃ¶nk precisionen dramatiskt fÃ¶r
+vissa avancerade genereringssystem Â– i fÃ¶rsÃ¶ket missade detektorerna mÃ¥nga av
+Adobes <i>Firefly</i>-genererade bilder, med endast 36Â–63&nbsp;%
+pÃ¥litlighet&#8203;<a
 href="https://capacanada.ca/content-authentication-photographs-vs-ai-generative-images/#:~:text=However%2C%20these%20systems%20faced%20challenges,image%20rendered%20images"
-target="_blank">capacanada.ca</a>. Skälet var att Fireflys bilder, tränade på
-äkta stockfotografier, saknade de vanliga artefakterna och inte innehöll någon
+target="_blank">capacanada.ca</a>. SkÃ¤let var att Fireflys bilder, trÃ¤nade pÃ¥
+Ã¤kta stockfotografier, saknade de vanliga artefakterna och inte innehÃ¶ll nÃ¥gon
 kameradata alls&#8203;<a
 href="https://capacanada.ca/content-authentication-photographs-vs-ai-generative-images/#:~:text=Combining%20diverse%20photograph%20sources%20into,generative%20images"
-target="_blank">capacanada.ca</a>. Detta exempel belyser att AI-verktygen för
-detektion själva hamnar i en kapplöpning mot ständigt förbättrade
+target="_blank">capacanada.ca</a>. Detta exempel belyser att AI-verktygen fÃ¶r
+detektion sjÃ¤lva hamnar i en kapplÃ¶pning mot stÃ¤ndigt fÃ¶rbÃ¤ttrade
 genereringsmetoder. Tekniken kan dock kombineras: experter rekommenderar att
-man använder både subjektiv granskning för hand och objektiva tekniska analyser
-i tandem för att med högre säkerhet känna igen AI-genererade bilder&#8203;<a
+man anvÃ¤nder bÃ¥de subjektiv granskning fÃ¶r hand och objektiva tekniska analyser
+i tandem fÃ¶r att med hÃ¶gre sÃ¤kerhet kÃ¤nna igen AI-genererade bilder&#8203;<a
 href="https://capacanada.ca/content-authentication-photographs-vs-ai-generative-images/#:~:text=enhance%20image%20quality%2C%20remove%20imperfections%2C,generative%20images"
 target="_blank">capacanada.ca</a>.</p>
 
-<p class=MsoNormal>Slutligen kan tekniska lösningar också innebära <b>kryptografisk
-proveniens</b> – att säkra bildens ursprung redan vid skapandet. Standarder som
-<i>Content Authenticity Initiative/Protocol (C2PA)</i> har under 2021–2023
-börjat implementeras av kameratillverkare och nyhetsbyråer för att <i>signera</i>
-foton vid källan. Till exempel har nyhetsbyrån AFP testat att införa digitala
-certifikat enligt C2PA-standarden för sina pressfoton under USA-valen
+<p class=MsoNormal>Slutligen kan tekniska lÃ¶sningar ocksÃ¥ innebÃ¤ra <b>kryptografisk
+proveniens</b> Â– att sÃ¤kra bildens ursprung redan vid skapandet. Standarder som
+<i>Content Authenticity Initiative/Protocol (C2PA)</i> har under 2021Â–2023
+bÃ¶rjat implementeras av kameratillverkare och nyhetsbyrÃ¥er fÃ¶r att <i>signera</i>
+foton vid kÃ¤llan. Till exempel har nyhetsbyrÃ¥n AFP testat att infÃ¶ra digitala
+certifikat enligt C2PA-standarden fÃ¶r sina pressfoton under USA-valen
 2022&#8203;<a
 href="https://nikonrumors.com/2025/02/18/afp-validates-a-certification-test-of-its-photos-via-the-c2pa-standard-using-a-prototype-nikon-camera.aspx/#:~:text=AFP%20validates%20a%20certification%20test,the%20C2PA%20standard%20using"
-target="_blank">nikonrumors.com</a>. Även verktyg som <i>SynthID</i> (utvecklat
-av Google DeepMind) kan bädda in osynliga vattenstämplar i AI-genererade bilder
-för att senare kunna identifiera dem&#8203;<a
+target="_blank">nikonrumors.com</a>. Ã„ven verktyg som <i>SynthID</i> (utvecklat
+av Google DeepMind) kan bÃ¤dda in osynliga vattenstÃ¤mplar i AI-genererade bilder
+fÃ¶r att senare kunna identifiera dem&#8203;<a
 href="https://deepmind.google/discover/blog/identifying-ai-generated-images-with-synthid/#:~:text=Identifying%20AI,generated%20images"
-target="_blank">deepmind.google</a>. Dessa tekniska innovationer ligger utanför
-själva bildinnehållets analys, men de utgör ett potentiellt viktigt komplement
-i framtiden för att skilja äkta material från syntetiskt genom
+target="_blank">deepmind.google</a>. Dessa tekniska innovationer ligger utanfÃ¶r
+sjÃ¤lva bildinnehÃ¥llets analys, men de utgÃ¶r ett potentiellt viktigt komplement
+i framtiden fÃ¶r att skilja Ã¤kta material frÃ¥n syntetiskt genom
 autentiseringskedjor.</p>
 
-<p class=MsoNormal><b>Kontextuella metoder för bildverifiering<o:p></o:p></b></p>
+<p class=MsoNormal><b>Kontextuella metoder fÃ¶r bildverifiering<o:p></o:p></b></p>
 
-<p class=MsoNormal>Parallellt med teknisk bildanalys är <b>kontextuell
-verifiering</b> avgörande för att bedöma ett fotos äkthet. Kontextuella metoder
-fokuserar på omständigheterna kring bilden: <i>När, var, av vem och i vilket
-syfte</i> den togs samt hur den sprids. En fundamental princip är att <b>identifiera
-och granska källan</b>. Om bilden ursprungligen publicerats på exempelvis
-Twitter eller en nyhetssajt, bör man spåra tillbaka till upphovspersonen.
-Journalister rekommenderar att direkt kontakta den som postat bilden och ställa
-kontrollfrågor&#8203;<a
+<p class=MsoNormal>Parallellt med teknisk bildanalys Ã¤r <b>kontextuell
+verifiering</b> avgÃ¶rande fÃ¶r att bedÃ¶ma ett fotos Ã¤kthet. Kontextuella metoder
+fokuserar pÃ¥ omstÃ¤ndigheterna kring bilden: <i>NÃ¤r, var, av vem och i vilket
+syfte</i> den togs samt hur den sprids. En fundamental princip Ã¤r att <b>identifiera
+och granska kÃ¤llan</b>. Om bilden ursprungligen publicerats pÃ¥ exempelvis
+Twitter eller en nyhetssajt, bÃ¶r man spÃ¥ra tillbaka till upphovspersonen.
+Journalister rekommenderar att direkt kontakta den som postat bilden och stÃ¤lla
+kontrollfrÃ¥gor&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=,time%20the%20image%20was%20taken"
-target="_blank">datajournalism.com</a>. Genom fem klassiska frågor – <i>Vem är
-du? Var är du? När togs bilden? Vad visar bilden? Varför befann du dig där?</i>
-– kan man få värdefull information om autenticiteten&#8203;<a
+target="_blank">datajournalism.com</a>. Genom fem klassiska frÃ¥gor Â– <i>Vem Ã¤r
+du? Var Ã¤r du? NÃ¤r togs bilden? Vad visar bilden? VarfÃ¶r befann du dig dÃ¤r?</i>
+Â– kan man fÃ¥ vÃ¤rdefull information om autenticiteten&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=,time%20the%20image%20was%20taken"
-target="_blank">datajournalism.com</a>. En genuin förstahandskälla brukar kunna
-ge detaljerade, sinnesnärvarande beskrivningar av händelsen (“Jag är på X
-Street just nu, jag ser Y hända framför mig”)&#8203;<a
+target="_blank">datajournalism.com</a>. En genuin fÃ¶rstahandskÃ¤lla brukar kunna
+ge detaljerade, sinnesnÃ¤rvarande beskrivningar av hÃ¤ndelsen (Â“Jag Ã¤r pÃ¥ X
+Street just nu, jag ser Y hÃ¤nda framfÃ¶r migÂ”)&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=One%20important%20aspect%20to%20note,about%20him%20or%20his%20images"
-target="_blank">datajournalism.com</a>. Vaga eller undvikande svar kan tyda på
-att källan inte verkligen var på plats, vilket väcker tvivel. Att be om <b>fler
-bilder</b> från samma tillfälle är också praxis – en person som bevittnat en
-nyhetshändelse har sällan bara tagit en enda bild&#8203;<a
+target="_blank">datajournalism.com</a>. Vaga eller undvikande svar kan tyda pÃ¥
+att kÃ¤llan inte verkligen var pÃ¥ plats, vilket vÃ¤cker tvivel. Att be om <b>fler
+bilder</b> frÃ¥n samma tillfÃ¤lle Ã¤r ocksÃ¥ praxis Â– en person som bevittnat en
+nyhetshÃ¤ndelse har sÃ¤llan bara tagit en enda bild&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=Another%20useful%20technique%20is%20to,the%20events%20in%20question%20unfolded"
-target="_blank">datajournalism.com</a>. Flera följdbilder från källan kan
-stärka berättelsens trovärdighet och ge mer insyn i händelseförloppet.</p>
+target="_blank">datajournalism.com</a>. Flera fÃ¶ljdbilder frÃ¥n kÃ¤llan kan
+stÃ¤rka berÃ¤ttelsens trovÃ¤rdighet och ge mer insyn i hÃ¤ndelsefÃ¶rloppet.</p>
 
-<p class=MsoNormal>En annan kontextuell strategi är <b>omvänd bildsökning</b>
-(reverse image search) för att kontrollera om bilden förekommit tidigare i
+<p class=MsoNormal>En annan kontextuell strategi Ã¤r <b>omvÃ¤nd bildsÃ¶kning</b>
+(reverse image search) fÃ¶r att kontrollera om bilden fÃ¶rekommit tidigare i
 annat sammanhang. Genom att ladda upp bilden i Google Bilder eller TinEye kan
-man se om identiska eller liknande bilder finns publicerade på webben&#8203;<a
+man se om identiska eller liknande bilder finns publicerade pÃ¥ webben&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=As%20referenced%20in%20an%20earlier,other%20sizes%E2%80%9D%20to%20investigate%20further"
-target="_blank">datajournalism.com</a>. Denna metod har gång på gång avslöjat
-falska påståenden. Om en påstått aktuell nyhetsbild i själva verket dyker upp i
-sökresultaten med äldre datum – kanske på en blogg eller i ett bildarkiv – vet
-man att bilden återanvänts. Ofta leder den högsta upplösningen av en bild (som
-sökmotorerna hittar) till originalkällan&#8203;<a
+target="_blank">datajournalism.com</a>. Denna metod har gÃ¥ng pÃ¥ gÃ¥ng avslÃ¶jat
+falska pÃ¥stÃ¥enden. Om en pÃ¥stÃ¥tt aktuell nyhetsbild i sjÃ¤lva verket dyker upp i
+sÃ¶kresultaten med Ã¤ldre datum Â– kanske pÃ¥ en blogg eller i ett bildarkiv Â– vet
+man att bilden Ã¥teranvÃ¤nts. Ofta leder den hÃ¶gsta upplÃ¶sningen av en bild (som
+sÃ¶kmotorerna hittar) till originalkÃ¤llan&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=on%20%E2%80%9Cview%20other%20sizes%E2%80%9D%20to,investigate%20further"
-target="_blank">datajournalism.com</a>, där korrekta kontexten kan framgå. Till
-exempel har många virala bluffbilder under årens lopp avslöjats via omvänd
-bildsökning: den berömda “hajen på motorvägen under orkanen” spårades till ett
-fotomontage långt före den aktuella stormen, och ett foto på soldater vid den
-okände soldatens grav som spreds under orkanen Sandy visade sig härstamma från
-en månad tidigare under annan väderlek&#8203;<a
+target="_blank">datajournalism.com</a>, dÃ¤r korrekta kontexten kan framgÃ¥. Till
+exempel har mÃ¥nga virala bluffbilder under Ã¥rens lopp avslÃ¶jats via omvÃ¤nd
+bildsÃ¶kning: den berÃ¶mda Â“hajen pÃ¥ motorvÃ¤gen under orkanenÂ” spÃ¥rades till ett
+fotomontage lÃ¥ngt fÃ¶re den aktuella stormen, och ett foto pÃ¥ soldater vid den
+okÃ¤nde soldatens grav som spreds under orkanen Sandy visade sig hÃ¤rstamma frÃ¥n
+en mÃ¥nad tidigare under annan vÃ¤derlek&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=Image"
 target="_blank">datajournalism.com</a>&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=The%20image%20was%20accurate%20in,the%20First%20Army%20Division%20East"
-target="_blank">datajournalism.com</a>. I det senare fallet var själva bilden
-autentisk i sig, men den hade <b>feltolkats och felkontextualiserats</b> –
+target="_blank">datajournalism.com</a>. I det senare fallet var sjÃ¤lva bilden
+autentisk i sig, men den hade <b>feltolkats och felkontextualiserats</b> Â–
 soldaterna stod visserligen vakt vid monumentet, men inte under orkanen (vilket
-en enkel kontroll mot det datum bilden lades upp på arméförbandets
+en enkel kontroll mot det datum bilden lades upp pÃ¥ armÃ©fÃ¶rbandets
 Facebook-sida visade)&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=The%20image%20was%20accurate%20in,the%20First%20Army%20Division%20East"
-target="_blank">datajournalism.com</a>. Detta understryker att även äkta
-fotografier kan användas på ett vilseledande sätt om kontexten förvrängs.
-Därför måste verifiering inte bara fastslå att en bild är “äkta” i
-pixelbemärkelse, utan också att den verkligen föreställer det som påstås.</p>
+target="_blank">datajournalism.com</a>. Detta understryker att Ã¤ven Ã¤kta
+fotografier kan anvÃ¤ndas pÃ¥ ett vilseledande sÃ¤tt om kontexten fÃ¶rvrÃ¤ngs.
+DÃ¤rfÃ¶r mÃ¥ste verifiering inte bara fastslÃ¥ att en bild Ã¤r Â“Ã¤ktaÂ” i
+pixelbemÃ¤rkelse, utan ocksÃ¥ att den verkligen fÃ¶restÃ¤ller det som pÃ¥stÃ¥s.</p>
 
-<p class=MsoNormal>För att korroborera en bilds <b>plats, tid och innehåll</b>
-kan faktagranskare använda en rad ytterligare knep. Genom noggrann visuell
-analys av bilden själv letar man efter ledtrådar: syns några <b>landmärken
-eller kännetecken</b> i omgivningen? Finns <b>skyltar, text eller
-registreringsskyltar</b> som kan avslöja platsen? Är <b>väderförhållandena</b>
-(soligt, regnigt, snö) förenliga med det påstådda datumet?&#8203;<a
+<p class=MsoNormal>FÃ¶r att korroborera en bilds <b>plats, tid och innehÃ¥ll</b>
+kan faktagranskare anvÃ¤nda en rad ytterligare knep. Genom noggrann visuell
+analys av bilden sjÃ¤lv letar man efter ledtrÃ¥dar: syns nÃ¥gra <b>landmÃ¤rken
+eller kÃ¤nnetecken</b> i omgivningen? Finns <b>skyltar, text eller
+registreringsskyltar</b> som kan avslÃ¶ja platsen? Ã„r <b>vÃ¤derfÃ¶rhÃ¥llandena</b>
+(soligt, regnigt, snÃ¶) fÃ¶renliga med det pÃ¥stÃ¥dda datumet?&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=,of%20terrain%2Fenvironment%20in%20the%20shot"
-target="_blank">datajournalism.com</a> Alla sådana detaljer kan kontrolleras
-mot oberoende källor. Verktyg som Google Maps (inklusive Street View) och
-Wikimapia gör det möjligt att jämföra bakgrunder och miljöer i bilden med
+target="_blank">datajournalism.com</a> Alla sÃ¥dana detaljer kan kontrolleras
+mot oberoende kÃ¤llor. Verktyg som Google Maps (inklusive Street View) och
+Wikimapia gÃ¶r det mÃ¶jligt att jÃ¤mfÃ¶ra bakgrunder och miljÃ¶er i bilden med
 verkliga platser&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=authentic%20image%20can%20still%20be,placed%20in%20a%20false%20context"
-target="_blank">datajournalism.com</a>. Om ett foto sägs visa en händelse i
+target="_blank">datajournalism.com</a>. Om ett foto sÃ¤gs visa en hÃ¤ndelse i
 Paris men bakgrundens byggnader inte alls matchar gatubilden i Paris, tyder det
-på att bilden är tagen annorstädes. På samma sätt kan <b>väderdata</b> från
-platsen och datumet (via t.ex. WolframAlpha eller nationella vädertjänster)
-jämföras med bilden&#8203;<a
+pÃ¥ att bilden Ã¤r tagen annorstÃ¤des. PÃ¥ samma sÃ¤tt kan <b>vÃ¤derdata</b> frÃ¥n
+platsen och datumet (via t.ex. WolframAlpha eller nationella vÃ¤dertjÃ¤nster)
+jÃ¤mfÃ¶ras med bilden&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=increasingly%20being%20tagged%20on%20these,in%20Chapter%205%3A%20Verifying%20Video"
-target="_blank">datajournalism.com</a> – stämmer himlens ljus, regn eller
-snömängd? Vid språkbarriärer kan text på skyltar i bilden översättas med OCR
-och Google Translate för att ge ledtrådar om geografisk kontext&#8203;<a
+target="_blank">datajournalism.com</a> Â– stÃ¤mmer himlens ljus, regn eller
+snÃ¶mÃ¤ngd? Vid sprÃ¥kbarriÃ¤rer kan text pÃ¥ skyltar i bilden Ã¶versÃ¤ttas med OCR
+och Google Translate fÃ¶r att ge ledtrÃ¥dar om geografisk kontext&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=If%20there%20is%20lettering%20%28e,reading%20tool%20%2058%20free"
-target="_blank">datajournalism.com</a>. Genom att triangulera dessa faktorer –
-vittnesmål, fler bildbevis, omvänd sökning, kartor och väder – kan man bygga
-upp en <i>kontextuell sanningstablå</i> kring bilden.</p>
+target="_blank">datajournalism.com</a>. Genom att triangulera dessa faktorer Â–
+vittnesmÃ¥l, fler bildbevis, omvÃ¤nd sÃ¶kning, kartor och vÃ¤der Â– kan man bygga
+upp en <i>kontextuell sanningstablÃ¥</i> kring bilden.</p>
 
-<p class=MsoNormal>En viktig del av kontextuell verifiering är också att
-kontrollera om händelsen som bilden påstår visa <b>överhuvudtaget har ägt rum</b>.
-Ibland kan frånvaron av annan information vara avslöjande. Ett exempel är den
-fejkade bilden av en <b>explosion vid Pentagon</b> i maj 2023. Bilden –
-genererad av AI – spreds brett via sociala medier från verifierade (blåbockade)
-konton och orsakade kortvarig panik och till och med en dip på börsen&#8203;<a
+<p class=MsoNormal>En viktig del av kontextuell verifiering Ã¤r ocksÃ¥ att
+kontrollera om hÃ¤ndelsen som bilden pÃ¥stÃ¥r visa <b>Ã¶verhuvudtaget har Ã¤gt rum</b>.
+Ibland kan frÃ¥nvaron av annan information vara avslÃ¶jande. Ett exempel Ã¤r den
+fejkade bilden av en <b>explosion vid Pentagon</b> i maj 2023. Bilden Â–
+genererad av AI Â– spreds brett via sociala medier frÃ¥n verifierade (blÃ¥bockade)
+konton och orsakade kortvarig panik och till och med en dip pÃ¥ bÃ¶rsen&#8203;<a
 href="https://www.techdirt.com/2023/05/23/fake-images-spread-on-twitter-fooled-media-spooked-stock-market-briefly/#:~:text=,incident%20had%20not%20taken%20place"
 target="_blank">techdirt.com</a>&#8203;<a
 href="https://www.techdirt.com/2023/05/23/fake-images-spread-on-twitter-fooled-media-spooked-stock-market-briefly/#:~:text=And%E2%80%A6%20from%20there%2C%20it%20impacted,the%20stock%20market"
-target="_blank">techdirt.com</a>. Men inga officiella källor eller oberoende
-vittnen bekräftade någon explosion, och lokala myndigheter fick snabbt gå ut
-och meddela att ingen incident inträffat&#8203;<a
+target="_blank">techdirt.com</a>. Men inga officiella kÃ¤llor eller oberoende
+vittnen bekrÃ¤ftade nÃ¥gon explosion, och lokala myndigheter fick snabbt gÃ¥ ut
+och meddela att ingen incident intrÃ¤ffat&#8203;<a
 href="https://www.aljazeera.com/news/2023/5/23/fake-pentagon-explosion-photo-goes-viral-how-to-spot-an-ai-image#:~:text=A%20fake%20image%20appearing%20to,dip%20in%20the%20stock%20market"
 target="_blank">aljazeera.com</a>&#8203;<a
 href="https://www.aljazeera.com/news/2023/5/23/fake-pentagon-explosion-photo-goes-viral-how-to-spot-an-ai-image#:~:text=Officials%20later%20confirmed%20that%20no,such%20incident%20had%20occurred"
-target="_blank">aljazeera.com</a>. Skarpsynta internetanvändare (bl.a.
-journalister vid Bellingcat) påpekade också konkreta orimligheter i bilden,
-såsom att byggnaden på bilden inte exakt matchade Pentagons arkitektur och att
-objekt i bilden såg konstiga ut (en svävande lyktstolpe, en märklig svart
-påle)&#8203;<a
+target="_blank">aljazeera.com</a>. Skarpsynta internetanvÃ¤ndare (bl.a.
+journalister vid Bellingcat) pÃ¥pekade ocksÃ¥ konkreta orimligheter i bilden,
+sÃ¥som att byggnaden pÃ¥ bilden inte exakt matchade Pentagons arkitektur och att
+objekt i bilden sÃ¥g konstiga ut (en svÃ¤vande lyktstolpe, en mÃ¤rklig svart
+pÃ¥le)&#8203;<a
 href="https://www.aljazeera.com/news/2023/5/23/fake-pentagon-explosion-photo-goes-viral-how-to-spot-an-ai-image#:~:text=,locations%20without%20introducing%20random%20artefacts"
-target="_blank">aljazeera.com</a>. Frånvaron av <i>verifierbara omständigheter</i>
-(inga rapporter eller vittnen trots att Pentagon är ett välbevakat område) i
+target="_blank">aljazeera.com</a>. FrÃ¥nvaron av <i>verifierbara omstÃ¤ndigheter</i>
+(inga rapporter eller vittnen trots att Pentagon Ã¤r ett vÃ¤lbevakat omrÃ¥de) i
 kombination med <i>kontextuella bildbevis</i> (misspassande byggnadsdetaljer
-jämfört med Google Street View) exponerade bluffen inom minuter&#8203;<a
+jÃ¤mfÃ¶rt med Google Street View) exponerade bluffen inom minuter&#8203;<a
 href="https://www.aljazeera.com/news/2023/5/23/fake-pentagon-explosion-photo-goes-viral-how-to-spot-an-ai-image#:~:text=Social%20media%20sleuths%2C%20including%20Nick,problems%20with%20the%20image%2C%20including"
 target="_blank">aljazeera.com</a>&#8203;<a
 href="https://www.aljazeera.com/news/2023/5/23/fake-pentagon-explosion-photo-goes-viral-how-to-spot-an-ai-image#:~:text=,locations%20without%20introducing%20random%20artefacts"
 target="_blank">aljazeera.com</a>. Detta fall illustrerar hur tekniska och
-kontextuella metoder samverkar: när en bild förefaller misstänkt gäller det att
-kontrollera den mot verklighetens referenser och se om berättelsen går ihop.</p>
+kontextuella metoder samverkar: nÃ¤r en bild fÃ¶refaller misstÃ¤nkt gÃ¤ller det att
+kontrollera den mot verklighetens referenser och se om berÃ¤ttelsen gÃ¥r ihop.</p>
 
 <p class=MsoNormal>Sammanfattningsvis kompletterar kontextuell verifiering de
-rent tekniska analyserna. Där tekniken kan påvisa att en bild <i>kan</i> vara
-äkta ur pixelperspektiv, säkerställer kontexten att bilden verkligen <i>är</i>
-vad den utges för att vara. I praktiken används båda angreppssätten i ett
-verifieringsarbete – metadata och bildforensik ger indikationer, medan
-källkontakt, omvänd sökning och korsvis faktaavstämning ger helhetsbilden.
-Lyckad bildverifiering kräver ett <b>holistiskt angreppssätt</b> där tekniska
-fynd alltid tolkas i sitt sammanhang och jämförs mot extern information&#8203;<a
+rent tekniska analyserna. DÃ¤r tekniken kan pÃ¥visa att en bild <i>kan</i> vara
+Ã¤kta ur pixelperspektiv, sÃ¤kerstÃ¤ller kontexten att bilden verkligen <i>Ã¤r</i>
+vad den utges fÃ¶r att vara. I praktiken anvÃ¤nds bÃ¥da angreppssÃ¤tten i ett
+verifieringsarbete Â– metadata och bildforensik ger indikationer, medan
+kÃ¤llkontakt, omvÃ¤nd sÃ¶kning och korsvis faktaavstÃ¤mning ger helhetsbilden.
+Lyckad bildverifiering krÃ¤ver ett <b>holistiskt angreppssÃ¤tt</b> dÃ¤r tekniska
+fynd alltid tolkas i sitt sammanhang och jÃ¤mfÃ¶rs mot extern information&#8203;<a
 href="https://pubmed.ncbi.nlm.nih.gov/33392404/#:~:text=implicated%20algorithmic%20solutions,audience%20from%20inaccurate%20information%20propagation"
 target="_blank">pubmed.ncbi.nlm.nih.gov</a>.</p>
 
-<p class=MsoNormal><b>Verktyg för bildverifiering i praktik<o:p></o:p></b></p>
+<p class=MsoNormal><b>Verktyg fÃ¶r bildverifiering i praktik<o:p></o:p></b></p>
 
-<p class=MsoNormal>I både journalistiskt arbete och i utbildningssammanhang har
-en uppsättning specifika verktyg vuxit fram för att underlätta bildverifiering.
-Tabell&nbsp;1 ger en översikt av några vanliga verktyg och deras funktion.</p>
+<p class=MsoNormal>I bÃ¥de journalistiskt arbete och i utbildningssammanhang har
+en uppsÃ¤ttning specifika verktyg vuxit fram fÃ¶r att underlÃ¤tta bildverifiering.
+Tabell&nbsp;1 ger en Ã¶versikt av nÃ¥gra vanliga verktyg och deras funktion.</p>
 
 <table class=MsoNormalTable border=0 cellpadding=0 style='mso-cellspacing:1.5pt;
  mso-yfti-tbllook:1184'>
@@ -1847,25 +1847,25 @@ Tabell&nbsp;1 ger en översikt av några vanliga verktyg och deras funktion.</p>
    <p class=MsoNormal><b>Funktion<o:p></o:p></b></p>
    </td>
    <td style='padding:.75pt .75pt .75pt .75pt'>
-   <p class=MsoNormal><b>Beskrivning och användning<o:p></o:p></b></p>
+   <p class=MsoNormal><b>Beskrivning och anvÃ¤ndning<o:p></o:p></b></p>
    </td>
   </tr>
  </thead>
  <tr style='mso-yfti-irow:1'>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><b>Omvänd bildsökning</b><br>
+  <p class=MsoNormal><b>OmvÃ¤nd bildsÃ¶kning</b><br>
   (Google Images, TinEye m.fl.)</p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal>Spårning av bildens ursprung och spridning</p>
+  <p class=MsoNormal>SpÃ¥rning av bildens ursprung och spridning</p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal>Sökmotorer som identifierar tidigare förekomster av en
+  <p class=MsoNormal>SÃ¶kmotorer som identifierar tidigare fÃ¶rekomster av en
   bild online&#8203;<a
   href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=As%20referenced%20in%20an%20earlier,other%20sizes%E2%80%9D%20to%20investigate%20further"
-  target="_blank">datajournalism.com</a>. Används för att hitta originalkällan
-  till en bild eller avslöja om bilden är återanvänd från ett annat sammanhang.
-  En högupplöst träff indikerar ofta originalet&#8203;<a
+  target="_blank">datajournalism.com</a>. AnvÃ¤nds fÃ¶r att hitta originalkÃ¤llan
+  till en bild eller avslÃ¶ja om bilden Ã¤r Ã¥teranvÃ¤nd frÃ¥n ett annat sammanhang.
+  En hÃ¶gupplÃ¶st trÃ¤ff indikerar ofta originalet&#8203;<a
   href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=on%20%E2%80%9Cview%20other%20sizes%E2%80%9D%20to,investigate%20further"
   target="_blank">datajournalism.com</a>.</p>
   </td>
@@ -1876,15 +1876,15 @@ Tabell&nbsp;1 ger en översikt av några vanliga verktyg och deras funktion.</p>
   (Exiftool, FotoForensics)</p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal>Utläsning av inbäddad information</p>
+  <p class=MsoNormal>UtlÃ¤sning av inbÃ¤ddad information</p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal>Verktyg som extraherar EXIF-data (kameramodell, tid, plats
   m.m.) ur bildfiler&#8203;<a
   href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=First%2C%20check%20if%20the%20image,com%20to%20generate%20an%20EXIF"
-  target="_blank">datajournalism.com</a>. Hjälper att upptäcka orimligheter
-  (t.ex. avsaknad av kameradata eller misstänkt tidsstämpel) och kan styrka om
-  en bild är original.</p>
+  target="_blank">datajournalism.com</a>. HjÃ¤lper att upptÃ¤cka orimligheter
+  (t.ex. avsaknad av kameradata eller misstÃ¤nkt tidsstÃ¤mpel) och kan styrka om
+  en bild Ã¤r original.</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3'>
@@ -1893,15 +1893,15 @@ Tabell&nbsp;1 ger en översikt av några vanliga verktyg och deras funktion.</p>
   (Forensically, FotoForensics)</p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal>Upptäckt av manipulationer i pixlar</p>
+  <p class=MsoNormal>UpptÃ¤ckt av manipulationer i pixlar</p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal>Erbjuder analyser som ELA (visar komprimeringsfel), clone
-  detection (hittar duplicerade mönster) m.m. Dessa verktyg kan blottlägga
-  områden som potentiellt är ändrade eller ihopklistrade genom oregelbundna
+  detection (hittar duplicerade mÃ¶nster) m.m. Dessa verktyg kan blottlÃ¤gga
+  omrÃ¥den som potentiellt Ã¤r Ã¤ndrade eller ihopklistrade genom oregelbundna
   artefakter&#8203;<a
   href="https://pubmed.ncbi.nlm.nih.gov/33392404/#:~:text=repeated%20measures%20experiment%20was%20conducted,comprehension%20and%20utilization%20by%20ordinary"
-  target="_blank">pubmed.ncbi.nlm.nih.gov</a>. Kräver manuell tolkning av
+  target="_blank">pubmed.ncbi.nlm.nih.gov</a>. KrÃ¤ver manuell tolkning av
   resultaten av en expert.</p>
   </td>
  </tr>
@@ -1911,13 +1911,13 @@ Tabell&nbsp;1 ger en översikt av några vanliga verktyg och deras funktion.</p>
   (InVID-WeVerify)</p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal>Helhetsverktyg för video- och bildverifiering</p>
+  <p class=MsoNormal>Helhetsverktyg fÃ¶r video- och bildverifiering</p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal>En webbläsar-plugin utvecklad för journalister. InVID
-  innehåller moduler för nyckelbildsextraktion ur videor, omvänd bildsökning,
-  metadata-visning och ramverk för att analysera sociala medier-inlägg. Används
-  flitigt för att verifiera innehåll i breaking news-sammanhang, t.ex.
+  <p class=MsoNormal>En webblÃ¤sar-plugin utvecklad fÃ¶r journalister. InVID
+  innehÃ¥ller moduler fÃ¶r nyckelbildsextraktion ur videor, omvÃ¤nd bildsÃ¶kning,
+  metadata-visning och ramverk fÃ¶r att analysera sociala medier-inlÃ¤gg. AnvÃ¤nds
+  flitigt fÃ¶r att verifiera innehÃ¥ll i breaking news-sammanhang, t.ex.
   konflikter&#8203;<a
   href="https://mediafutures.no/wp-content/uploads/JASIST_VerifyingWarConflict-compressed.pdf#:~:text=Image%20verification%20ImgOps%2C%20InVid,Yandex%20Maps%2FStreetview%2C%20Bing%20Maps%2C%20Apple"
   target="_blank">mediafutures.no</a>.</p>
@@ -1929,136 +1929,136 @@ Tabell&nbsp;1 ger en översikt av några vanliga verktyg och deras funktion.</p>
   (AI-Or-Not, Hive, Google Lens)</p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal>Automatisk bedömning av AI kontra foto</p>
+  <p class=MsoNormal>Automatisk bedÃ¶mning av AI kontra foto</p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal>Webbtjänster eller appar som genom maskininlärning
-  försöker avgöra om en bild är datorgenererad&#8203;<a
+  <p class=MsoNormal>WebbtjÃ¤nster eller appar som genom maskininlÃ¤rning
+  fÃ¶rsÃ¶ker avgÃ¶ra om en bild Ã¤r datorgenererad&#8203;<a
   href="https://capacanada.ca/content-authentication-photographs-vs-ai-generative-images/#:~:text=With%20the%20exception%20for%20Adobe,image%20creations"
-  target="_blank">capacanada.ca</a>. De kan ge en sannolikhet för
-  “AI-genererad” vs “foto”. Nyttiga som första screening, men inte 100&nbsp;%
-  pålitliga – särskilt inte för de allra senaste AI-bilderna&#8203;<a
+  target="_blank">capacanada.ca</a>. De kan ge en sannolikhet fÃ¶r
+  Â“AI-genereradÂ” vs Â“fotoÂ”. Nyttiga som fÃ¶rsta screening, men inte 100&nbsp;%
+  pÃ¥litliga Â– sÃ¤rskilt inte fÃ¶r de allra senaste AI-bilderna&#8203;<a
   href="https://capacanada.ca/content-authentication-photographs-vs-ai-generative-images/#:~:text=However%2C%20these%20systems%20faced%20challenges,image%20rendered%20images"
   target="_blank">capacanada.ca</a>.</p>
   </td>
  </tr>
 </table>
 
-<p class=MsoNormal><b>Tabell 1:</b> Exempel på verktyg som används för
-bildverifiering, deras huvudsakliga funktion och användning i journalistik
-eller utbildning. (Flera av verktygen ovan används i kombination; <b>Tabell&nbsp;1:</b>
-Exempel på verktyg som används för bildverifiering, deras huvudsakliga funktion
-och användning i praktiken. <i>(Flera av verktygen ovan används ofta i
-kombination; exempelvis kan en journalist först göra en omvänd bildsökning för
-att hitta bildens källa och därefter tillämpa forensisk analys om något verkar
-avvika. InVID integrerar även flera funktioner i ett verktyg. Nyckeln är att
-använda rätt verktyg vid rätt tillfälle och förstå begränsningarna – en
-AI-detektor kan indikera att en bild sannolikt är syntetisk, men andra metoder
-behövs för att vara säker.)</i></p>
+<p class=MsoNormal><b>Tabell 1:</b> Exempel pÃ¥ verktyg som anvÃ¤nds fÃ¶r
+bildverifiering, deras huvudsakliga funktion och anvÃ¤ndning i journalistik
+eller utbildning. (Flera av verktygen ovan anvÃ¤nds i kombination; <b>Tabell&nbsp;1:</b>
+Exempel pÃ¥ verktyg som anvÃ¤nds fÃ¶r bildverifiering, deras huvudsakliga funktion
+och anvÃ¤ndning i praktiken. <i>(Flera av verktygen ovan anvÃ¤nds ofta i
+kombination; exempelvis kan en journalist fÃ¶rst gÃ¶ra en omvÃ¤nd bildsÃ¶kning fÃ¶r
+att hitta bildens kÃ¤lla och dÃ¤refter tillÃ¤mpa forensisk analys om nÃ¥got verkar
+avvika. InVID integrerar Ã¤ven flera funktioner i ett verktyg. Nyckeln Ã¤r att
+anvÃ¤nda rÃ¤tt verktyg vid rÃ¤tt tillfÃ¤lle och fÃ¶rstÃ¥ begrÃ¤nsningarna Â– en
+AI-detektor kan indikera att en bild sannolikt Ã¤r syntetisk, men andra metoder
+behÃ¶vs fÃ¶r att vara sÃ¤ker.)</i></p>
 
-<p class=MsoNormal>Som tabellen antyder finns ett ekosystem av verktyg för
-verifiering. Journalister på faktagranskningsredaktioner rapporterar att de
-rutinmässigt använder dessa i sitt arbetsflöd&#8203;<a
+<p class=MsoNormal>Som tabellen antyder finns ett ekosystem av verktyg fÃ¶r
+verifiering. Journalister pÃ¥ faktagranskningsredaktioner rapporterar att de
+rutinmÃ¤ssigt anvÃ¤nder dessa i sitt arbetsflÃ¶d&#8203;<a
 href="https://mediafutures.no/wp-content/uploads/JASIST_VerifyingWarConflict-compressed.pdf#:~:text=Image%20verification%20ImgOps%2C%20InVid,Yandex%20Maps%2FStreetview%2C%20Bing%20Maps%2C%20Apple"
 target="_blank">mediafutures.no</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-På samma sätt kan lärare utnyttja dessa verktyg i undervisning, till exempel
-genom att låta studenter prova omvänd bildsökning eller analysera metadata på
-misstänkta bilder som övningar. Verktygen är hjälpmedel – de ersätter inte
-mänskligt omdöme, men de <b>effektiviserar granskningsprocessen</b> och gör det
-möjligt att hantera den stora mängd visuellt material som flödar genom dagens
+PÃ¥ samma sÃ¤tt kan lÃ¤rare utnyttja dessa verktyg i undervisning, till exempel
+genom att lÃ¥ta studenter prova omvÃ¤nd bildsÃ¶kning eller analysera metadata pÃ¥
+misstÃ¤nkta bilder som Ã¶vningar. Verktygen Ã¤r hjÃ¤lpmedel Â– de ersÃ¤tter inte
+mÃ¤nskligt omdÃ¶me, men de <b>effektiviserar granskningsprocessen</b> och gÃ¶r det
+mÃ¶jligt att hantera den stora mÃ¤ngd visuellt material som flÃ¶dar genom dagens
 medier.</p>
 
-<p class=MsoNormal><b>Utbildningsmässiga tillvägagångssätt och mediepedagogik<o:p></o:p></b></p>
+<p class=MsoNormal><b>UtbildningsmÃ¤ssiga tillvÃ¤gagÃ¥ngssÃ¤tt och mediepedagogik<o:p></o:p></b></p>
 
-<p class=MsoNormal>För att rusta studenter, journalister och allmänhet med
-förmågan att kritiskt tolka bilder betonas idag <i>visuell läskunnighet</i>
+<p class=MsoNormal>FÃ¶r att rusta studenter, journalister och allmÃ¤nhet med
+fÃ¶rmÃ¥gan att kritiskt tolka bilder betonas idag <i>visuell lÃ¤skunnighet</i>
 (visual literacy) som en central del av medie- och informationskunnighet.
-Forskning pekar på att *<i>undervisning och träning kan avsevärt förbättra
-förmågan att upptäcka manipulerade bilder</i>&#8203;<a
+Forskning pekar pÃ¥ att *<i>undervisning och trÃ¤ning kan avsevÃ¤rt fÃ¶rbÃ¤ttra
+fÃ¶rmÃ¥gan att upptÃ¤cka manipulerade bilder</i>&#8203;<a
 href="https://pubmed.ncbi.nlm.nih.gov/33392404/#:~:text=people%2C%20involved%20in%20the%20everyday,automations%20and%20the%20human%20experience"
 target="_blank">pubmed.ncbi.nlm.nih.gov</a><span lang=JA style='font-family:
 "Yu Mincho",serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>&#12305;</span>. I en studie, där deltagare först hade begränsad
-kännedom om verifieringsverktyg, ökade deras detektionsförmåga markant efter
-systematisk träning i att använda bildforensiska hjälpmede&#8203;<a
+minor-latin'>&#12305;</span>. I en studie, dÃ¤r deltagare fÃ¶rst hade begrÃ¤nsad
+kÃ¤nnedom om verifieringsverktyg, Ã¶kade deras detektionsfÃ¶rmÃ¥ga markant efter
+systematisk trÃ¤ning i att anvÃ¤nda bildforensiska hjÃ¤lpmede&#8203;<a
 href="https://pubmed.ncbi.nlm.nih.gov/33392404/#:~:text=people%2C%20involved%20in%20the%20everyday,automations%20and%20the%20human%20experience"
 target="_blank">pubmed.ncbi.nlm.nih.gov</a><span lang=JA style='font-family:
 "Yu Mincho",serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>&#12305;</span>. Detta tyder på att utbildningsinsatser kan
-motverka den intuition som ofta sviker inför sofistikerade bildmanipulationer.</p>
+minor-latin'>&#12305;</span>. Detta tyder pÃ¥ att utbildningsinsatser kan
+motverka den intuition som ofta sviker infÃ¶r sofistikerade bildmanipulationer.</p>
 
-<p class=MsoNormal>Pedagogiska strategier för att stärka visuell källkritik
-omfattar både teoretiska och praktiska moment. Mediepedagoger <b>integrerar
-bildverifiering i kursplaner</b> genom att lära ut konkreta metoder som omvänd
-bildsökning och källtillit. En färsk kvalitativ studie (Aljalabneh, 2024)
-visade att lärare använder <i>specifika övningar</i> såsom att låta studenter
-göra egna reverse image-sökningar och källjämförelser för att förstå vikten av
-att verifiera visuellt innehål&#8203;<a
+<p class=MsoNormal>Pedagogiska strategier fÃ¶r att stÃ¤rka visuell kÃ¤llkritik
+omfattar bÃ¥de teoretiska och praktiska moment. Mediepedagoger <b>integrerar
+bildverifiering i kursplaner</b> genom att lÃ¤ra ut konkreta metoder som omvÃ¤nd
+bildsÃ¶kning och kÃ¤lltillit. En fÃ¤rsk kvalitativ studie (Aljalabneh, 2024)
+visade att lÃ¤rare anvÃ¤nder <i>specifika Ã¶vningar</i> sÃ¥som att lÃ¥ta studenter
+gÃ¶ra egna reverse image-sÃ¶kningar och kÃ¤lljÃ¤mfÃ¶relser fÃ¶r att fÃ¶rstÃ¥ vikten av
+att verifiera visuellt innehÃ¥l&#8203;<a
 href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=reverse%20image%20searches%20and%20cross,5"
 target="_blank">frontiersin.org</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Lärarna betonade också att sätta in bilder i sin kontext – att analysera
-upphovspersonens bakgrund och motiv – för att blottlägga eventuella bias eller
-agendasättnin&#8203;<a
+LÃ¤rarna betonade ocksÃ¥ att sÃ¤tta in bilder i sin kontext Â– att analysera
+upphovspersonens bakgrund och motiv Â– fÃ¶r att blottlÃ¤gga eventuella bias eller
+agendasÃ¤ttnin&#8203;<a
 href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=reverse%20image%20searches%20and%20cross,5"
 target="_blank">frontiersin.org</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Denna metod att “läsa” en bilds sammanhang tränar studenter i att inte ta
-visuella budskap för givna, utan fråga sig <i>vem</i> som förmedlar bilden och <i>varför</i>.</p>
+Denna metod att Â“lÃ¤saÂ” en bilds sammanhang trÃ¤nar studenter i att inte ta
+visuella budskap fÃ¶r givna, utan frÃ¥ga sig <i>vem</i> som fÃ¶rmedlar bilden och <i>varfÃ¶r</i>.</p>
 
-<p class=MsoNormal>En annan central komponent är att öka medvetenheten om <b>hur
-bilder påverkar oss psykologiskt</b>. Pedagoger påminner om att bilder
-generellt har starkare emotionell och minnesmässig genomslagskraft än text (det
+<p class=MsoNormal>En annan central komponent Ã¤r att Ã¶ka medvetenheten om <b>hur
+bilder pÃ¥verkar oss psykologiskt</b>. Pedagoger pÃ¥minner om att bilder
+generellt har starkare emotionell och minnesmÃ¤ssig genomslagskraft Ã¤n text (det
 s.k. <i>Picture Superiority Effect</i>&#8203;<a
 href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=promoting%20a%20more%20nuanced%20understanding,this%20research%20are%20crucial%20for"
 target="_blank">frontiersin.org</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Därför lär man ut att just starka, känsloskapande fotografier ofta utnyttjas i
-desinformation för att övertyga publiken. I klassrummet kan detta adresseras
-genom att studenter får <i>dekonstruera</i> manipulativa bilder eller
-videoklipp: till exempel analysera hur en falsk video använder musik, vinklar
-och narrativ för att väcka känslo&#8203;<a
+DÃ¤rfÃ¶r lÃ¤r man ut att just starka, kÃ¤nsloskapande fotografier ofta utnyttjas i
+desinformation fÃ¶r att Ã¶vertyga publiken. I klassrummet kan detta adresseras
+genom att studenter fÃ¥r <i>dekonstruera</i> manipulativa bilder eller
+videoklipp: till exempel analysera hur en falsk video anvÃ¤nder musik, vinklar
+och narrativ fÃ¶r att vÃ¤cka kÃ¤nslo&#8203;<a
 href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=match%20at%20L1024%20whom%20we,Expert%2C%20H"
 target="_blank">frontiersin.org</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Genom att bryta ner <i>hur</i> en bild kommunicerar budskap tränas studenterna
-att identifiera subtila tecken på påverkan och utveckla ett mer nyanserat
-förhållningssät&#8203;<a
+Genom att bryta ner <i>hur</i> en bild kommunicerar budskap trÃ¤nas studenterna
+att identifiera subtila tecken pÃ¥ pÃ¥verkan och utveckla ett mer nyanserat
+fÃ¶rhÃ¥llningssÃ¤t&#8203;<a
 href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=students%20to%20engage%20with%20visual,from%20the%20case%20study%2C%20where"
 target="_blank">frontiersin.org</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.</p>
 
-<p class=MsoNormal><b>Interaktiva övningar och case-baserat lärande</b> är
-särskilt effektiva. Enligt intervjuer med medielärare använder många visuella
-hjälpmedel som <b>bilder, infografik och quiz</b> för att engagera
+<p class=MsoNormal><b>Interaktiva Ã¶vningar och case-baserat lÃ¤rande</b> Ã¤r
+sÃ¤rskilt effektiva. Enligt intervjuer med medielÃ¤rare anvÃ¤nder mÃ¥nga visuella
+hjÃ¤lpmedel som <b>bilder, infografik och quiz</b> fÃ¶r att engagera
 studentern&#8203;<a
 href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=many%20educators%20use%2C%20Participant%20O,I%20ensure%20that%20they%20can"
 target="_blank">frontiersin.org</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Till exempel kan en lärare visa ett galleri av bilder där vissa är äkta
-pressfoton och andra AI-genererade; studenterna får först gissa vilka som är
-genuina och sedan diskutera i grupp vad som avslöjade de syntetiska. Sådana
-visuella quiz lär ut “titta två gånger”–principen på ett praktiskt sätt. Likaså
-uppmuntras <i>lateral läsning</i> – att vid minsta tvekan söka efter andra
-källor och kontext snarare än att lita enbart på bilden i sitt flöde. Den
+Till exempel kan en lÃ¤rare visa ett galleri av bilder dÃ¤r vissa Ã¤r Ã¤kta
+pressfoton och andra AI-genererade; studenterna fÃ¥r fÃ¶rst gissa vilka som Ã¤r
+genuina och sedan diskutera i grupp vad som avslÃ¶jade de syntetiska. SÃ¥dana
+visuella quiz lÃ¤r ut Â“titta tvÃ¥ gÃ¥ngerÂ”Â–principen pÃ¥ ett praktiskt sÃ¤tt. LikasÃ¥
+uppmuntras <i>lateral lÃ¤sning</i> Â– att vid minsta tvekan sÃ¶ka efter andra
+kÃ¤llor och kontext snarare Ã¤n att lita enbart pÃ¥ bilden i sitt flÃ¶de. Den
 amerikanske pedagogen Mike Caulfields <b>SIFT-metod</b> (Stoppa, Identifiera
-källan, Finna bättre belägg, Spåra ursprunget) har fått genomslag även i
-bildgranskning: studenter lär sig att stanna upp innan de delar en chockerande
-bild, undersöka vem som först publicerade den, leta efter etablerade medier som
-bekräftar händelsen, och spåra bilden bakåt i tiden. Denna metodik, som betonar
-<i>snabb källkontroll</i>, kompletterar den traditionella djupanalysen och har
-visat sig användbar i undervisning för att hantera flödet av potentiellt
-vilseledande innehål&#8203;<a
+kÃ¤llan, Finna bÃ¤ttre belÃ¤gg, SpÃ¥ra ursprunget) har fÃ¥tt genomslag Ã¤ven i
+bildgranskning: studenter lÃ¤r sig att stanna upp innan de delar en chockerande
+bild, undersÃ¶ka vem som fÃ¶rst publicerade den, leta efter etablerade medier som
+bekrÃ¤ftar hÃ¤ndelsen, och spÃ¥ra bilden bakÃ¥t i tiden. Denna metodik, som betonar
+<i>snabb kÃ¤llkontroll</i>, kompletterar den traditionella djupanalysen och har
+visat sig anvÃ¤ndbar i undervisning fÃ¶r att hantera flÃ¶det av potentiellt
+vilseledande innehÃ¥l&#8203;<a
 href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322#:~:text=Misinformation%20guides,online%20content%20can%20be%20trusted"
 target="_blank">guides.lib.uchicago.edu</a>&#8203;<a
 href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9757814/#:~:text=The%20SIFT%20method%20is%20a,claims%20when%20confronted%20with"
@@ -2066,177 +2066,177 @@ target="_blank">pmc.ncbi.nlm.nih.gov</a><span lang=JA style='font-family:"Yu Min
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.</p>
 
-<p class=MsoNormal>Ett annat pedagogiskt grepp är att involvera studenterna i <b>projekt
-och rollspel</b> där de får agera faktagranskare. Genom att ge dem ett antal
-misstänkta bilder och uppgiften att skriva en verifieringsrapport (med
-dokumentation av vilka steg och verktyg de använde) lär de sig en verifierares
-arbetsflöde. I Norge har t.ex. det samarbetsbaserade projektet Faktisk
-Verifiserbar arbetat med journalister på liknande vis under Ukraina-kriget, med
-en mall där varje verifieringsfall dokumenteras och granskas i flera steg –
-något som kan efterliknas pedagogiskt i mindre skal&#8203;<a
+<p class=MsoNormal>Ett annat pedagogiskt grepp Ã¤r att involvera studenterna i <b>projekt
+och rollspel</b> dÃ¤r de fÃ¥r agera faktagranskare. Genom att ge dem ett antal
+misstÃ¤nkta bilder och uppgiften att skriva en verifieringsrapport (med
+dokumentation av vilka steg och verktyg de anvÃ¤nde) lÃ¤r de sig en verifierares
+arbetsflÃ¶de. I Norge har t.ex. det samarbetsbaserade projektet Faktisk
+Verifiserbar arbetat med journalister pÃ¥ liknande vis under Ukraina-kriget, med
+en mall dÃ¤r varje verifieringsfall dokumenteras och granskas i flera steg Â–
+nÃ¥got som kan efterliknas pedagogiskt i mindre skal&#8203;<a
 href="https://mediafutures.no/wp-content/uploads/JASIST_VerifyingWarConflict-compressed.pdf#:~:text=%28coordinates%29,a%20second%20opinion%20on%20the"
 target="_blank">mediafutures.no</a>&#8203;<a
 href="https://mediafutures.no/wp-content/uploads/JASIST_VerifyingWarConflict-compressed.pdf#:~:text=utilised%2C%20and%20other%20relevant%20information,verified%20with%20other%20journalists%20working"
 target="_blank">mediafutures.no</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Studenter kan få poäng för att hitta originalkällan, avslöja manipulation eller
-ge välgrundade argument för bildens äkthet eller oäkthet. Denna typ av <i>problembaserat
-lärande</i> gör teorin konkret och stärker samtidigt elevernas förtroende för
-att de kan navigera ett landskap av osäkra visuella intryck.</p>
+Studenter kan fÃ¥ poÃ¤ng fÃ¶r att hitta originalkÃ¤llan, avslÃ¶ja manipulation eller
+ge vÃ¤lgrundade argument fÃ¶r bildens Ã¤kthet eller oÃ¤kthet. Denna typ av <i>problembaserat
+lÃ¤rande</i> gÃ¶r teorin konkret och stÃ¤rker samtidigt elevernas fÃ¶rtroende fÃ¶r
+att de kan navigera ett landskap av osÃ¤kra visuella intryck.</p>
 
 <p class=MsoNormal>Sammanfattningsvis visar litteraturen att <b>mediepedagogik
-för visuell källkritik</b> bör kombinera kunskap (om t.ex. verktyg och metoder)
-med praktisk träning och reflexion. Genom att öka både den tekniska färdigheten
-(hur man använder verifieringsverktyg) och det kritiska sinnet (hur man
-ifrågasätter bilders kontext och budskap) kan utbildning bidra till en mer
-källkritisk bildkultu&#8203;<a
+fÃ¶r visuell kÃ¤llkritik</b> bÃ¶r kombinera kunskap (om t.ex. verktyg och metoder)
+med praktisk trÃ¤ning och reflexion. Genom att Ã¶ka bÃ¥de den tekniska fÃ¤rdigheten
+(hur man anvÃ¤nder verifieringsverktyg) och det kritiska sinnet (hur man
+ifrÃ¥gasÃ¤tter bilders kontext och budskap) kan utbildning bidra till en mer
+kÃ¤llkritisk bildkultu&#8203;<a
 href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=highlights%20the%20critical%20role%20of,of%20a%20more%20informed%20and"
 target="_blank">frontiersin.org</a>&#8203;<a
 href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=political%20and%20security%20issues,of%20a%20more%20informed%20and"
 target="_blank">frontiersin.org</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Detta är avgörande i en tid då unga växer upp med ett överflöd av bilder i
-sociala medier – att tidigt lära sig skilja mellan trovärdiga och vilseledande
-visuella budskap är en form av digitalt självförsvar.</p>
+Detta Ã¤r avgÃ¶rande i en tid dÃ¥ unga vÃ¤xer upp med ett Ã¶verflÃ¶d av bilder i
+sociala medier Â– att tidigt lÃ¤ra sig skilja mellan trovÃ¤rdiga och vilseledande
+visuella budskap Ã¤r en form av digitalt sjÃ¤lvfÃ¶rsvar.</p>
 
 <p class=MsoNormal><b>Fallstudier: lyckade och misslyckade bildverifieringar<o:p></o:p></b></p>
 
-<p class=MsoNormal>För att ytterligare belysa utmaningarna och metoderna
-diskuterar vi här några konkreta fallstudier där bildverifiering stått i fokus
-– både exempel där verifieringen lyckats och där misslyckanden inträffat, med
-lärdomar i bägge scenarier.</p>
+<p class=MsoNormal>FÃ¶r att ytterligare belysa utmaningarna och metoderna
+diskuterar vi hÃ¤r nÃ¥gra konkreta fallstudier dÃ¤r bildverifiering stÃ¥tt i fokus
+Â– bÃ¥de exempel dÃ¤r verifieringen lyckats och dÃ¤r misslyckanden intrÃ¤ffat, med
+lÃ¤rdomar i bÃ¤gge scenarier.</p>
 
-<p class=MsoNormal><b>Fall 1: Fejkad explosion vid Pentagon (2023)</b> – <i>misslyckad
+<p class=MsoNormal><b>Fall 1: Fejkad explosion vid Pentagon (2023)</b> Â– <i>misslyckad
 initial verifiering, snabb korrigering</i>. I maj 2023 spreds en bild som
-påstods visa en explosion nära Pentagon i Washington D.C. via Twitter. Bilden
-kom från ett “verifierat” konto (med köpt blå markering) som utgav sig för att
-vara Bloomberg News och twittrade: <i>“Large explosion near the Pentagon
-complex in Washington DC – initial report”</i> tillsammans med bilde&#8203;<a
+pÃ¥stods visa en explosion nÃ¤ra Pentagon i Washington D.C. via Twitter. Bilden
+kom frÃ¥n ett Â“verifieratÂ” konto (med kÃ¶pt blÃ¥ markering) som utgav sig fÃ¶r att
+vara Bloomberg News och twittrade: <i>Â“Large explosion near the Pentagon
+complex in Washington DC Â– initial reportÂ”</i> tillsammans med bilde&#8203;<a
 href="https://www.techdirt.com/2023/05/23/fake-images-spread-on-twitter-fooled-media-spooked-stock-market-briefly/#:~:text=created%20using%20a%20generative%20AI,it%20came%20from%20Bloomberg%20News"
 target="_blank">techdirt.com</a>&#8203;<a
 href="https://www.techdirt.com/2023/05/23/fake-images-spread-on-twitter-fooled-media-spooked-stock-market-briefly/#:~:text=including%20one%20that%20falsely%20claimed,rising%20near%20a%20large%20building"
 target="_blank">techdirt.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Nyheten togs upp av åtminstone en större utländsk TV-kanal (Republic TV i
-Indien) som visade bilden och rapporterade om en explosion, med hänvisning till
-uppgifter från ryska RT – dock drog de senare tillbaka inslaget när det
-klargjordes att ingen incident ägt ru&#8203;<a
+Nyheten togs upp av Ã¥tminstone en stÃ¶rre utlÃ¤ndsk TV-kanal (Republic TV i
+Indien) som visade bilden och rapporterade om en explosion, med hÃ¤nvisning till
+uppgifter frÃ¥n ryska RT Â– dock drog de senare tillbaka inslaget nÃ¤r det
+klargjordes att ingen incident Ã¤gt ru&#8203;<a
 href="https://www.techdirt.com/2023/05/23/fake-images-spread-on-twitter-fooled-media-spooked-stock-market-briefly/#:~:text=,incident%20had%20not%20taken%20place"
 target="_blank">techdirt.com</a>&#8203;<a
 href="https://www.techdirt.com/2023/05/23/fake-images-spread-on-twitter-fooled-media-spooked-stock-market-briefly/#:~:text=place%2C%20showing%20the%20fake%20image,incident%20had%20not%20taken%20place"
 target="_blank">techdirt.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Under de få minuter då ryktet spreds hann även USA-börsen reagera; Dow Jones
-dök ca 80 punkter innan bilden blev avfärdad som fals&#8203;<a
+Under de fÃ¥ minuter dÃ¥ ryktet spreds hann Ã¤ven USA-bÃ¶rsen reagera; Dow Jones
+dÃ¶k ca 80 punkter innan bilden blev avfÃ¤rdad som fals&#8203;<a
 href="https://www.techdirt.com/2023/05/23/fake-images-spread-on-twitter-fooled-media-spooked-stock-market-briefly/#:~:text=And%E2%80%A6%20from%20there%2C%20it%20impacted,the%20stock%20market"
 target="_blank">techdirt.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Det visade sig att bilden nästan säkert var AI-genererad. Vid noggrannare
-betraktande framkom märkliga detaljer: byggnaden på fotot liknade inte exakt
-Pentagon (fasaden och proportionerna avvek), en lyktstolpe syntes “sväva”
-onaturligt, och staket samt människor hade oklara konture&#8203;<a
+Det visade sig att bilden nÃ¤stan sÃ¤kert var AI-genererad. Vid noggrannare
+betraktande framkom mÃ¤rkliga detaljer: byggnaden pÃ¥ fotot liknade inte exakt
+Pentagon (fasaden och proportionerna avvek), en lyktstolpe syntes Â“svÃ¤vaÂ”
+onaturligt, och staket samt mÃ¤nniskor hade oklara konture&#8203;<a
 href="https://www.aljazeera.com/news/2023/5/23/fake-pentagon-explosion-photo-goes-viral-how-to-spot-an-ai-image#:~:text=,locations%20without%20introducing%20random%20artefacts"
 target="_blank">aljazeera.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Dessutom fanns inga oberoende vittnesmål eller rapporter trots den påstått
-dramatiska händelse&#8203;<a
+Dessutom fanns inga oberoende vittnesmÃ¥l eller rapporter trots den pÃ¥stÃ¥tt
+dramatiska hÃ¤ndelse&#8203;<a
 href="https://www.aljazeera.com/news/2023/5/23/fake-pentagon-explosion-photo-goes-viral-how-to-spot-an-ai-image#:~:text=Social%20media%20sleuths%2C%20including%20Nick,problems%20with%20the%20image%2C%20including"
 target="_blank">aljazeera.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
 Inom cirka 10 minuter hade officiella kanaler dementerat ryktet. Detta fall
-illustrerar hur en AI-bild kan dupera även mediefolk i brådrasket – men också
-hur <b>kritiska kontrollfrågor</b> (Finns det fler källor? Ser miljön rimlig
-ut? Är detaljerna fysiskt trovärdiga?) och snabb samverkan mellan journalister
-på nätet kan begränsa skadan. Trots en initial verifieringsmiss lyckades man
-genom kollektiva ansträngningar och digital källkritik vända det felaktiga
-narrativet relativt kvickt. Lärdomen är att robust beredskap och vaksamhet
-krävs i nyhetsredaktioner för att hantera bildbluffar i realtid.</p>
+illustrerar hur en AI-bild kan dupera Ã¤ven mediefolk i brÃ¥drasket Â– men ocksÃ¥
+hur <b>kritiska kontrollfrÃ¥gor</b> (Finns det fler kÃ¤llor? Ser miljÃ¶n rimlig
+ut? Ã„r detaljerna fysiskt trovÃ¤rdiga?) och snabb samverkan mellan journalister
+pÃ¥ nÃ¤tet kan begrÃ¤nsa skadan. Trots en initial verifieringsmiss lyckades man
+genom kollektiva anstrÃ¤ngningar och digital kÃ¤llkritik vÃ¤nda det felaktiga
+narrativet relativt kvickt. LÃ¤rdomen Ã¤r att robust beredskap och vaksamhet
+krÃ¤vs i nyhetsredaktioner fÃ¶r att hantera bildbluffar i realtid.</p>
 
-<p class=MsoNormal><b>Fall 2: Påve Franciskus i modejacka (2023)</b> – <i>bred
-offentlig felläsning, folkmässig korrektion</i>. I mars 2023 blev ett foto
-viralt som föreställde påven klädd i en vit, modern dunkappa i Balenciaga-stil,
-hållandes en kaffekopp. Bilden förvånade många – hade påven verkligen en sådan
+<p class=MsoNormal><b>Fall 2: PÃ¥ve Franciskus i modejacka (2023)</b> Â– <i>bred
+offentlig fellÃ¤sning, folkmÃ¤ssig korrektion</i>. I mars 2023 blev ett foto
+viralt som fÃ¶restÃ¤llde pÃ¥ven klÃ¤dd i en vit, modern dunkappa i Balenciaga-stil,
+hÃ¥llandes en kaffekopp. Bilden fÃ¶rvÃ¥nade mÃ¥nga Â– hade pÃ¥ven verkligen en sÃ¥dan
 outfit? Det visade sig vara helt AI-genererat via Midjourney, upplagt som
-skämt. Men innan detta var allmänt känt hann bilden spridas enormt och tolkas
-som äkta av tusentals användare onlin&#8203;<a
+skÃ¤mt. Men innan detta var allmÃ¤nt kÃ¤nt hann bilden spridas enormt och tolkas
+som Ã¤kta av tusentals anvÃ¤ndare onlin&#8203;<a
 href="https://www.npr.org/2023/06/07/1180768459/how-to-identify-ai-generated-deepfake-images#:~:text=Take%20the%20synthetic%20image%20of,of%20his%20eyeglasses%20is%20distorted"
 target="_blank">npr.org</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Först vid en närmare granskning upptäckte uppmärksamma betraktare orimliga
-detaljer: Påvens fingrar verkade sväva och greppade inte muggen naturligt, och
-glasögonens bågar var förvridn&#8203;<a
+FÃ¶rst vid en nÃ¤rmare granskning upptÃ¤ckte uppmÃ¤rksamma betraktare orimliga
+detaljer: PÃ¥vens fingrar verkade svÃ¤va och greppade inte muggen naturligt, och
+glasÃ¶gonens bÃ¥gar var fÃ¶rvridn&#8203;<a
 href="https://www.npr.org/2023/06/07/1180768459/how-to-identify-ai-generated-deepfake-images#:~:text=The%20current%20wave%20of%20fake,may%20be%20even%20more%20irregularities"
 target="_blank">npr.org</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Dessa subtila “fel” är typiska för AI-bilder från 2023, då algoritmer hade
-särskilt svårt med händer och vissa accessoarer. När dessa avslöjande detaljer
-pekades ut (bl.a. av användare på Reddit och Twitter) började fler inse att
+Dessa subtila Â“felÂ” Ã¤r typiska fÃ¶r AI-bilder frÃ¥n 2023, dÃ¥ algoritmer hade
+sÃ¤rskilt svÃ¥rt med hÃ¤nder och vissa accessoarer. NÃ¤r dessa avslÃ¶jande detaljer
+pekades ut (bl.a. av anvÃ¤ndare pÃ¥ Reddit och Twitter) bÃ¶rjade fler inse att
 bilden var falsk, och faktagranskare samt medier (t.ex. <i>BuzzFeed</i> och <i>BBC</i>)
-rapporterade snabbt om bildens ursprung. Här såg vi hur en <i>visuellt
-övertygande fejk</i> kunde lurasnästan hela internet en kort stund, men att <b>kollektiv
+rapporterade snabbt om bildens ursprung. HÃ¤r sÃ¥g vi hur en <i>visuellt
+Ã¶vertygande fejk</i> kunde lurasnÃ¤stan hela internet en kort stund, men att <b>kollektiv
 granskning</b> och spridning av kunskap om AI-artefakter ledde till en lyckad
 verifiering i efterhand. Fallet understryker dock risken: hade ingen noterat de
-extra fingrarna eller snedvridna detaljerna, kunde bilden ha fortlevt längre
-som “sanning” i folks medvetande. I ett medielandskap där sådana bilder sprids
-blixtsnabbt behöver allmänheten tränas att själv ställa de kritiska frågorna: <i>Ser
-något konstigt ut?</i> och <i>Var kommer bilden ifrån från början?</i>.</p>
+extra fingrarna eller snedvridna detaljerna, kunde bilden ha fortlevt lÃ¤ngre
+som Â“sanningÂ” i folks medvetande. I ett medielandskap dÃ¤r sÃ¥dana bilder sprids
+blixtsnabbt behÃ¶ver allmÃ¤nheten trÃ¤nas att sjÃ¤lv stÃ¤lla de kritiska frÃ¥gorna: <i>Ser
+nÃ¥got konstigt ut?</i> och <i>Var kommer bilden ifrÃ¥n frÃ¥n bÃ¶rjan?</i>.</p>
 
-<p class=MsoNormal><b>Fall 3: AI-bild vinner fototävling (Sony World
-Photography Awards 2023)</b> – <i>misslyckad verifiering av experter, etisk
-debatt</i>. I april 2023 uppstod kontrovers när det visade sig att vinnarbilden
-i en prestigefylld fototävling var AI-genererad. Den tyske konstnären Boris
-Eldagsen hade skickat in ett svartvitt “fotografi” föreställande två kvinnor i
-ett tidstypiskt porträtt – men bilden var helt skapad med hjälp av generativ
-AI. Juryn utsåg verket till vinnare i sin kategori, ovetande om dess egentliga
+<p class=MsoNormal><b>Fall 3: AI-bild vinner fototÃ¤vling (Sony World
+Photography Awards 2023)</b> Â– <i>misslyckad verifiering av experter, etisk
+debatt</i>. I april 2023 uppstod kontrovers nÃ¤r det visade sig att vinnarbilden
+i en prestigefylld fototÃ¤vling var AI-genererad. Den tyske konstnÃ¤ren Boris
+Eldagsen hade skickat in ett svartvitt Â“fotografiÂ” fÃ¶restÃ¤llande tvÃ¥ kvinnor i
+ett tidstypiskt portrÃ¤tt Â– men bilden var helt skapad med hjÃ¤lp av generativ
+AI. Juryn utsÃ¥g verket till vinnare i sin kategori, ovetande om dess egentliga
 ursprun&#8203;<a
 href="https://www.theguardian.com/artanddesign/2023/apr/18/ai-threat-boris-eldagsen-fake-photo-duped-sony-judges-hits-back#:~:text=S%20ince%2052,reads%3A%20%E2%80%9CSony%3A%20Stop%20saying%20nonsense%21%E2%80%9D"
 target="_blank">theguardian.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Eldagsen avslöjade sanningen efteråt och tackade nej till priset, i syfte att
-väcka diskussion. Reaktionerna från tävlingsarrangörerna var spända; de kände
-sig lurade och ifrågasatte sin bedömningsförmåga: <i>“If you can’t tell the
+Eldagsen avslÃ¶jade sanningen efterÃ¥t och tackade nej till priset, i syfte att
+vÃ¤cka diskussion. Reaktionerna frÃ¥n tÃ¤vlingsarrangÃ¶rerna var spÃ¤nda; de kÃ¤nde
+sig lurade och ifrÃ¥gasatte sin bedÃ¶mningsfÃ¶rmÃ¥ga: <i>Â“If you canÂ’t tell the
 difference between a photograph and an AI-generated image, then you may as well
-go home,”</i> kommenterade Eldagsen syrligt om situatione&#8203;<a
+go home,Â”</i> kommenterade Eldagsen syrligt om situatione&#8203;<a
 href="https://www.theguardian.com/artanddesign/2023/apr/18/ai-threat-boris-eldagsen-fake-photo-duped-sony-judges-hits-back#:~:text=on%20the%20morning%20after%20the,created%20using%20elements%20of%20AI"
 target="_blank">theguardian.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Detta fall blottlade att <b>även erfarna yrkesmänniskor kan missta en AI-bild
-för ett foto</b> när kontexten är en konstnärlig snarare än journalistisk. I en
-tävlingsmiljö förväntar sig juryn att bidragen är fotografier om inte annat
-anges, så de letade inte aktivt efter manipulation. När bluffen uppdagades
-uppstod en etisk diskussion: Bör AI-genererade bilder få tävla mot fotografier?
-Hur ska regler och definitioner anpassas? Eldagsen själv argumenterade att AI
-är ett verktyg likt kameran, men många fotografer menade att det undergräver
-tävlingens integritet. Denna misslyckade verifiering (eller snarare,
-underlåtelse att verifiera) ledde dock till något positivt – en ökad
+Detta fall blottlade att <b>Ã¤ven erfarna yrkesmÃ¤nniskor kan missta en AI-bild
+fÃ¶r ett foto</b> nÃ¤r kontexten Ã¤r en konstnÃ¤rlig snarare Ã¤n journalistisk. I en
+tÃ¤vlingsmiljÃ¶ fÃ¶rvÃ¤ntar sig juryn att bidragen Ã¤r fotografier om inte annat
+anges, sÃ¥ de letade inte aktivt efter manipulation. NÃ¤r bluffen uppdagades
+uppstod en etisk diskussion: BÃ¶r AI-genererade bilder fÃ¥ tÃ¤vla mot fotografier?
+Hur ska regler och definitioner anpassas? Eldagsen sjÃ¤lv argumenterade att AI
+Ã¤r ett verktyg likt kameran, men mÃ¥nga fotografer menade att det undergrÃ¤ver
+tÃ¤vlingens integritet. Denna misslyckade verifiering (eller snarare,
+underlÃ¥telse att verifiera) ledde dock till nÃ¥got positivt Â– en Ã¶kad
 medvetenhet inom fotobranschen om behovet av <b>tydlighet och riktlinjer</b>
-kring AI-bilder. Flera fototävlingar införde efter detta skarpare regler om att
+kring AI-bilder. Flera fototÃ¤vlingar infÃ¶rde efter detta skarpare regler om att
 AI-verk skulle deklareras eller ha egna kategorier. Fallet exemplifierar den
-nya gråzonen mellan foto och genererad bildkonst, där traditionella sätt att
-garantera autenticitet ännu söker sin form.</p>
+nya grÃ¥zonen mellan foto och genererad bildkonst, dÃ¤r traditionella sÃ¤tt att
+garantera autenticitet Ã¤nnu sÃ¶ker sin form.</p>
 
-<p class=MsoNormal>Utöver dessa exempel finns otaliga fall som varnat branschen
-om farorna med bristfällig bildverifiering: från nyhetsredaktioner som
+<p class=MsoNormal>UtÃ¶ver dessa exempel finns otaliga fall som varnat branschen
+om farorna med bristfÃ¤llig bildverifiering: frÃ¥n nyhetsredaktioner som
 publicerat gamla bilder i tron att de var aktuella (t.ex. ett chilenskt
-brandflygplan foto som spreds under skogsbränder i Australien) till sociala
-mediebluffar som “rymdstrålarnas” falska bilder. Å andra sidan ser vi också
-lyckade ansträngningar: <b>OSINT-grupper</b> som Bellingcat och journalister
-har vid flera tillfällen verifierat och därmed bekräftat sanningshalten i
-bilder, vilket givit avgörande bevis i allt från krigsbrottsundersökningar till
-avslöjande av falska nyheter. BBC:s UGC-team under 2005 års London-bombningar
-visade värdet av tidig publikmedverkan – genom att snabbt bekräfta äktheten hos
-inskickade bilder kunde de korrigera den officiella berättelsen och rapportera
+brandflygplan foto som spreds under skogsbrÃ¤nder i Australien) till sociala
+mediebluffar som Â“rymdstrÃ¥larnasÂ” falska bilder. Ã… andra sidan ser vi ocksÃ¥
+lyckade anstrÃ¤ngningar: <b>OSINT-grupper</b> som Bellingcat och journalister
+har vid flera tillfÃ¤llen verifierat och dÃ¤rmed bekrÃ¤ftat sanningshalten i
+bilder, vilket givit avgÃ¶rande bevis i allt frÃ¥n krigsbrottsundersÃ¶kningar till
+avslÃ¶jande av falska nyheter. BBC:s UGC-team under 2005 Ã¥rs London-bombningar
+visade vÃ¤rdet av tidig publikmedverkan Â– genom att snabbt bekrÃ¤fta Ã¤ktheten hos
+inskickade bilder kunde de korrigera den officiella berÃ¤ttelsen och rapportera
 mer sanningsenlig&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=This%20was%20one%20of%20the,standard%20practice%20across%20the%20industry"
 target="_blank">datajournalism.com</a>&#8203;<a
@@ -2244,171 +2244,171 @@ href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4
 target="_blank">datajournalism.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Summan av fallstudierna är att <b>verifiering gör skillnad</b>: en felaktig
-bild kan ge påtagliga negativa följder, medan en framgångsrik verifiering kan
-höja informationskvaliteten och förtroendet för medierna. Varje misstag ger nya
-lärdomar som sporrar utvecklingen av bättre metoder och ökad medvetenhet.</p>
+Summan av fallstudierna Ã¤r att <b>verifiering gÃ¶r skillnad</b>: en felaktig
+bild kan ge pÃ¥tagliga negativa fÃ¶ljder, medan en framgÃ¥ngsrik verifiering kan
+hÃ¶ja informationskvaliteten och fÃ¶rtroendet fÃ¶r medierna. Varje misstag ger nya
+lÃ¤rdomar som sporrar utvecklingen av bÃ¤ttre metoder och Ã¶kad medvetenhet.</p>
 
 <p class=MsoNormal><b>Etiska perspektiv i nyhets- och konstsammanhang<o:p></o:p></b></p>
 
-<p class=MsoNormal>Frågan om en bilds autenticitet är inte bara teknisk eller
-pedagogisk – den är i högsta grad etisk. Inom <b>nyhetsjournalistik</b> finns
-ett grundläggande etos: fotografin ska återge verkligheten så sanningsenligt
-som möjligt. Att använda falska eller vilseledande bilder strider mot de
-pressetiska reglerna om sanningsenlighet och skadar allmänhetens förtroende. I
-dagens läge har nyhetsorganisationer därför börjat formulera explicita policyer
-för AI-genererat innehåll. Associated Press (AP) gick 2023 ut med riktlinjer
-som klargör att generativ AI <i>inte</i> får användas för att skapa
+<p class=MsoNormal>FrÃ¥gan om en bilds autenticitet Ã¤r inte bara teknisk eller
+pedagogisk Â– den Ã¤r i hÃ¶gsta grad etisk. Inom <b>nyhetsjournalistik</b> finns
+ett grundlÃ¤ggande etos: fotografin ska Ã¥terge verkligheten sÃ¥ sanningsenligt
+som mÃ¶jligt. Att anvÃ¤nda falska eller vilseledande bilder strider mot de
+pressetiska reglerna om sanningsenlighet och skadar allmÃ¤nhetens fÃ¶rtroende. I
+dagens lÃ¤ge har nyhetsorganisationer dÃ¤rfÃ¶r bÃ¶rjat formulera explicita policyer
+fÃ¶r AI-genererat innehÃ¥ll. Associated Press (AP) gick 2023 ut med riktlinjer
+som klargÃ¶r att generativ AI <i>inte</i> fÃ¥r anvÃ¤ndas fÃ¶r att skapa
 publiceringsmaterial i nyhetsrapporteringen, och att man <b>inte heller
-tillåter AI-modifiering av fotografier</b> utöver traditionella
+tillÃ¥ter AI-modifiering av fotografier</b> utÃ¶ver traditionella
 bildbehandlingsteknike&#8203;<a
 href="https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai#:~:text=Journalists%20for%20AP%20can%20experiment,generated%20photos%20in%20captions"
 target="_blank">theverge.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-AI-genererade bilder ska endast förekomma om själva nyheten handlar om dem, och
-då måste de tydligt märkas som syntetiska i bildtexte&#8203;<a
+AI-genererade bilder ska endast fÃ¶rekomma om sjÃ¤lva nyheten handlar om dem, och
+dÃ¥ mÃ¥ste de tydligt mÃ¤rkas som syntetiska i bildtexte&#8203;<a
 href="https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai#:~:text=Journalists%20for%20AP%20can%20experiment,generated%20photos%20in%20captions"
 target="_blank">theverge.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Liknande hållningar har antagits av många redaktioner: New York Times, Reuters,
-BBC m.fl. betonar att läsarna aldrig får vilseledas att tro att en AI-bild är
-ett autentiskt foto i nyhetsinnehåll.</p>
+Liknande hÃ¥llningar har antagits av mÃ¥nga redaktioner: New York Times, Reuters,
+BBC m.fl. betonar att lÃ¤sarna aldrig fÃ¥r vilseledas att tro att en AI-bild Ã¤r
+ett autentiskt foto i nyhetsinnehÃ¥ll.</p>
 
-<p class=MsoNormal>Ett dilemma är dock att <b>även om man märker en manipulerad
-bild tydligt, kan publiken lätt missta sig</b>. Som en intervjuperson
-(fotochef) påpekade: läsare skummar ofta och ser bara bilden – de kanske inte
-noterar eller tar till sig en deklaration i bildtexten att det är en
+<p class=MsoNormal>Ett dilemma Ã¤r dock att <b>Ã¤ven om man mÃ¤rker en manipulerad
+bild tydligt, kan publiken lÃ¤tt missta sig</b>. Som en intervjuperson
+(fotochef) pÃ¥pekade: lÃ¤sare skummar ofta och ser bara bilden Â– de kanske inte
+noterar eller tar till sig en deklaration i bildtexten att det Ã¤r en
 AI-genererad illustratio&#8203;<a
 href="https://digitalcontentnext.org/blog/2024/04/30/generative-visual-ai-in-news-organizations-challenges-and-opportunities/#:~:text=intent,one%20of%20the%20editors%20interviewed"
 target="_blank">digitalcontentnext.org</a><span lang=JA style='font-family:
 "Yu Mincho",serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>&#12305;</span>. Effekten blir då desamma som om bilden
-presenterats utan förklaring, dvs. att människor tror den är verklig. Detta är
-ett etiskt problem: ska medier då avstå helt från AI-bilder för att undvika
-risken för missförstånd? Vissa argumenterar att det säkraste är att <i>aldrig</i>
-blanda ihop genrerna – nyhetsfoto ska vara nyhetsfoto, punkt. Andra menar att
-med ökad mediekompetens kan publiken lära sig skillnaden, men det är långt
-ifrån garanterat i praktiken. World Economic Forum rankade 2023 spridningen av
-AI-baserad desinformation som ett av de största kortsiktiga hoten mot
-samhälle&#8203;<a
+minor-latin'>&#12305;</span>. Effekten blir dÃ¥ desamma som om bilden
+presenterats utan fÃ¶rklaring, dvs. att mÃ¤nniskor tror den Ã¤r verklig. Detta Ã¤r
+ett etiskt problem: ska medier dÃ¥ avstÃ¥ helt frÃ¥n AI-bilder fÃ¶r att undvika
+risken fÃ¶r missfÃ¶rstÃ¥nd? Vissa argumenterar att det sÃ¤kraste Ã¤r att <i>aldrig</i>
+blanda ihop genrerna Â– nyhetsfoto ska vara nyhetsfoto, punkt. Andra menar att
+med Ã¶kad mediekompetens kan publiken lÃ¤ra sig skillnaden, men det Ã¤r lÃ¥ngt
+ifrÃ¥n garanterat i praktiken. World Economic Forum rankade 2023 spridningen av
+AI-baserad desinformation som ett av de stÃ¶rsta kortsiktiga hoten mot
+samhÃ¤lle&#8203;<a
 href="https://digitalcontentnext.org/blog/2024/04/30/generative-visual-ai-in-news-organizations-challenges-and-opportunities/#:~:text=would%20hate%20for%20that%20to,decide%20to%20use%20that%20technology"
 target="_blank">digitalcontentnext.org</a><span lang=JA style='font-family:
 "Yu Mincho",serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
 mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-minor-latin'>&#12305;</span>. Ur ett demokratiskt perspektiv är det djupt
-oroande om allmänheten inte kan lita på bildmaterial i nyheterna. Vi riskerar
-en “sanningens kris” där bevisvärdet hos foton eroderas – med följden att
-antingen tror folk på falska bilder, <i>eller</i> så tror de till slut inte på
-några bilder alls (även äkta). Båda ytterligheter är skadliga för en informerad
+minor-latin'>&#12305;</span>. Ur ett demokratiskt perspektiv Ã¤r det djupt
+oroande om allmÃ¤nheten inte kan lita pÃ¥ bildmaterial i nyheterna. Vi riskerar
+en Â“sanningens krisÂ” dÃ¤r bevisvÃ¤rdet hos foton eroderas Â– med fÃ¶ljden att
+antingen tror folk pÃ¥ falska bilder, <i>eller</i> sÃ¥ tror de till slut inte pÃ¥
+nÃ¥gra bilder alls (Ã¤ven Ã¤kta). BÃ¥da ytterligheter Ã¤r skadliga fÃ¶r en informerad
 offentlighet.</p>
 
-<p class=MsoNormal>Etiken kräver därför en balansgång. Journalister förväntas
-både <i>snabbt</i> förmedla bilder (då de ofta är centrala för
-nyhetsberättelsen) och <i>noggrant</i> verifiera dem. Den klassiska konflikten
-mellan snabbhet och noggrannhet blir extra svår i en era av bildmanipulation i
-realtid. Många nyhetsredaktioner har hanterat detta genom att inrätta
-dedikerade faktagranskningsteam eller bildverifierare som är involverade i
-nyhetsflödet för att granska användargenererat material innan det
+<p class=MsoNormal>Etiken krÃ¤ver dÃ¤rfÃ¶r en balansgÃ¥ng. Journalister fÃ¶rvÃ¤ntas
+bÃ¥de <i>snabbt</i> fÃ¶rmedla bilder (dÃ¥ de ofta Ã¤r centrala fÃ¶r
+nyhetsberÃ¤ttelsen) och <i>noggrant</i> verifiera dem. Den klassiska konflikten
+mellan snabbhet och noggrannhet blir extra svÃ¥r i en era av bildmanipulation i
+realtid. MÃ¥nga nyhetsredaktioner har hanterat detta genom att inrÃ¤tta
+dedikerade faktagranskningsteam eller bildverifierare som Ã¤r involverade i
+nyhetsflÃ¶det fÃ¶r att granska anvÃ¤ndargenererat material innan det
 publicera&#8203;<a
 href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=Today%2C%20the%20UGC%20team%20is,or%20from%20the%20wider%20Web"
 target="_blank">datajournalism.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-En standardprocedur som etablerats är att aldrig publicera en tveksam bild utan
-att åtminstone en redaktör eller verifierare har godkänt den genom de metoder
-vi beskrivit tidigare. Om osäkerhet kvarstår kan man välja att <i>inte</i>
-använda bilden eller tydligt ange att “detta foto är obekräftat”. Transparens
-mot publiken – att redovisa vad man vet och inte vet – är också en etisk
+En standardprocedur som etablerats Ã¤r att aldrig publicera en tveksam bild utan
+att Ã¥tminstone en redaktÃ¶r eller verifierare har godkÃ¤nt den genom de metoder
+vi beskrivit tidigare. Om osÃ¤kerhet kvarstÃ¥r kan man vÃ¤lja att <i>inte</i>
+anvÃ¤nda bilden eller tydligt ange att Â“detta foto Ã¤r obekrÃ¤ftatÂ”. Transparens
+mot publiken Â– att redovisa vad man vet och inte vet Â– Ã¤r ocksÃ¥ en etisk
 princip.</p>
 
-<p class=MsoNormal>I <b>konstnärliga och fotografiska sammanhang</b> tar de
-etiska resonemangen en annan vändning. Inom konstfotografi har bildmanipulation
-historiskt sett varit vanlig och accepterad som uttrycksmedel; konstnärer har
-lekt med mörkrumstrick, dubbla exponeringar och digital retusch för att skapa
-sin vision. Att <i>skapa</i> overkliga bilder är i sig inget etiskt fel i en
-konstkontekst – problem uppstår först om publiken luras att tro att de är
-dokumentära när de inte är det. Boris Eldagsens fototävlingsbidrag (Fall&nbsp;3
-ovan) aktualiserade just detta: är det oetiskt att låta en AI-bild tävla som
-foto? Vissa hävdade att Eldagsen bröt mot tävlingens anda och vilseledde juryn
-avsiktligt, medan han själv menade att syftet var pedagogiskt och konstnärligt
-– att utmana gränserna. Konsekvensen blev i alla fall att tävlingsarrangörerna
-kände sig tvingade att ta avstånd och förtydliga reglern&#8203;<a
+<p class=MsoNormal>I <b>konstnÃ¤rliga och fotografiska sammanhang</b> tar de
+etiska resonemangen en annan vÃ¤ndning. Inom konstfotografi har bildmanipulation
+historiskt sett varit vanlig och accepterad som uttrycksmedel; konstnÃ¤rer har
+lekt med mÃ¶rkrumstrick, dubbla exponeringar och digital retusch fÃ¶r att skapa
+sin vision. Att <i>skapa</i> overkliga bilder Ã¤r i sig inget etiskt fel i en
+konstkontekst Â– problem uppstÃ¥r fÃ¶rst om publiken luras att tro att de Ã¤r
+dokumentÃ¤ra nÃ¤r de inte Ã¤r det. Boris Eldagsens fototÃ¤vlingsbidrag (Fall&nbsp;3
+ovan) aktualiserade just detta: Ã¤r det oetiskt att lÃ¥ta en AI-bild tÃ¤vla som
+foto? Vissa hÃ¤vdade att Eldagsen brÃ¶t mot tÃ¤vlingens anda och vilseledde juryn
+avsiktligt, medan han sjÃ¤lv menade att syftet var pedagogiskt och konstnÃ¤rligt
+Â– att utmana grÃ¤nserna. Konsekvensen blev i alla fall att tÃ¤vlingsarrangÃ¶rerna
+kÃ¤nde sig tvingade att ta avstÃ¥nd och fÃ¶rtydliga reglern&#8203;<a
 href="https://www.theguardian.com/artanddesign/2023/apr/18/ai-threat-boris-eldagsen-fake-photo-duped-sony-judges-hits-back#:~:text=S%20ince%2052,reads%3A%20%E2%80%9CSony%3A%20Stop%20saying%20nonsense%21%E2%80%9D"
 target="_blank">theguardian.com</a>&#8203;<a
 href="https://www.theguardian.com/artanddesign/2023/apr/18/ai-threat-boris-eldagsen-fake-photo-duped-sony-judges-hits-back#:~:text=on%20the%20morning%20after%20the,created%20using%20elements%20of%20AI"
 target="_blank">theguardian.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-På ett bredare plan väcker AI-bilder frågor om <b>upphovsmannaskap och
-autenticitet</b> i konsten: Om en algoritm genererar bilden, vem är då
-konstnären? Spelar det roll för värdet av verket om scenen aldrig existerat
-utanför datorn? Inom fotografins filosofi har man traditionellt hållit
-fotografiet som ett “index” av verkligheten (en ljusprojektion av ett faktiskt
-ögonblick). AI-utställda bilder rubbar den ontologin – de ser ut som
-fotografier men saknar ett reellt referent. Etiskt kräver detta transparens: betraktaren
-har rätt att veta om ett verk är ett fotografi av verkligheten eller en syntes.
-I musei- och gallerisammanhang börjar man därför ange ifall en bild är
-AI-genererad, ungefär som man anger medium (t.ex. “AI-genererad bild, 2023”
-jämte “inkjet print from digital photograph”).</p>
+PÃ¥ ett bredare plan vÃ¤cker AI-bilder frÃ¥gor om <b>upphovsmannaskap och
+autenticitet</b> i konsten: Om en algoritm genererar bilden, vem Ã¤r dÃ¥
+konstnÃ¤ren? Spelar det roll fÃ¶r vÃ¤rdet av verket om scenen aldrig existerat
+utanfÃ¶r datorn? Inom fotografins filosofi har man traditionellt hÃ¥llit
+fotografiet som ett Â“indexÂ” av verkligheten (en ljusprojektion av ett faktiskt
+Ã¶gonblick). AI-utstÃ¤llda bilder rubbar den ontologin Â– de ser ut som
+fotografier men saknar ett reellt referent. Etiskt krÃ¤ver detta transparens: betraktaren
+har rÃ¤tt att veta om ett verk Ã¤r ett fotografi av verkligheten eller en syntes.
+I musei- och gallerisammanhang bÃ¶rjar man dÃ¤rfÃ¶r ange ifall en bild Ã¤r
+AI-genererad, ungefÃ¤r som man anger medium (t.ex. Â“AI-genererad bild, 2023Â”
+jÃ¤mte Â“inkjet print from digital photographÂ”).</p>
 
-<p class=MsoNormal>Samtidigt argumenterar vissa konstnärer att AI är bara ännu
-ett verktyg och att det autentiska ligger i den mänskliga kreativiteten och
-intentionen. Här finns en parallell till tidigare teknikskiften – när Photoshop
-blev allmänt på 1990-talet fanns liknande farhågor att “fotografiets
-trovärdighet dör”, men i praktiken lärde sig publiken så småningom att
-redigerade bilder existerar och kontexten avgör hur de tolka&#8203;<a
+<p class=MsoNormal>Samtidigt argumenterar vissa konstnÃ¤rer att AI Ã¤r bara Ã¤nnu
+ett verktyg och att det autentiska ligger i den mÃ¤nskliga kreativiteten och
+intentionen. HÃ¤r finns en parallell till tidigare teknikskiften Â– nÃ¤r Photoshop
+blev allmÃ¤nt pÃ¥ 1990-talet fanns liknande farhÃ¥gor att Â“fotografiets
+trovÃ¤rdighet dÃ¶rÂ”, men i praktiken lÃ¤rde sig publiken sÃ¥ smÃ¥ningom att
+redigerade bilder existerar och kontexten avgÃ¶r hur de tolka&#8203;<a
 href="https://www.techdirt.com/2023/05/23/fake-images-spread-on-twitter-fooled-media-spooked-stock-market-briefly/#:~:text=Over%20the%20last%20few%20years%2C,%E2%80%9D"
 target="_blank">techdirt.com</a>&#8203;<a
 href="https://www.techdirt.com/2023/05/23/fake-images-spread-on-twitter-fooled-media-spooked-stock-market-briefly/#:~:text=people%20calm%20down%20a%20little,%E2%80%9D"
 target="_blank">techdirt.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Skillnaden nu är skala och förmåga: AI kan <i>massproducera</i> helt falska men
-realistiska bilder och sprida dem globalt omedelbart. Det är inte längre bara
-konstnärer i ateljéer som skapar manipulerade verk, utan potentiellt
-statsaktörer, propagandister eller bedragare med ont uppsåt. Etiken kring
-användning av AI-bilder i offentligheten knyter därför an till frågor om ansvar
-och skada. <i>Deepfakes</i> av politiker eller privatpersoner kan utgöra
-karaktärsmord eller kränkning av privatlivet; förfalskade nyhetsbilder kan
-piska upp hat eller panik (som Pentagon-exemplet visade). Såväl juridiskt som
-moraliskt utkrävs ansvar av den som sprider falska bilder med uppsåt att
+Skillnaden nu Ã¤r skala och fÃ¶rmÃ¥ga: AI kan <i>massproducera</i> helt falska men
+realistiska bilder och sprida dem globalt omedelbart. Det Ã¤r inte lÃ¤ngre bara
+konstnÃ¤rer i ateljÃ©er som skapar manipulerade verk, utan potentiellt
+statsaktÃ¶rer, propagandister eller bedragare med ont uppsÃ¥t. Etiken kring
+anvÃ¤ndning av AI-bilder i offentligheten knyter dÃ¤rfÃ¶r an till frÃ¥gor om ansvar
+och skada. <i>Deepfakes</i> av politiker eller privatpersoner kan utgÃ¶ra
+karaktÃ¤rsmord eller krÃ¤nkning av privatlivet; fÃ¶rfalskade nyhetsbilder kan
+piska upp hat eller panik (som Pentagon-exemplet visade). SÃ¥vÃ¤l juridiskt som
+moraliskt utkrÃ¤vs ansvar av den som sprider falska bilder med uppsÃ¥t att
 vilseleda.</p>
 
-<p class=MsoNormal>År 2024 rapporterade ukrainska myndigheter att Ryssland
-systematiskt börjat utnyttja generativ AI i sin desinformationspropaganda kring
+<p class=MsoNormal>Ã…r 2024 rapporterade ukrainska myndigheter att Ryssland
+systematiskt bÃ¶rjat utnyttja generativ AI i sin desinformationspropaganda kring
 krige&#8203;<a
 href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307090#:~:text=conflict"
 target="_blank">journals.plos.org</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Sådana händelser accentuerar det etiska imperativet för medieorganisationer och
-plattformar att snabbt identifiera och märka eller ta bort manipulerade bilder
-som används i vilseledande syfte. Samhällets institutioner – från skolor till
-nyhetsredaktioner – har ett gemensamt etiskt ansvar att <b>försvara det
-visuella sanningsbegreppet</b>. Det innebär inte att förkasta AI-tekniken (den
-har legitima kreativa och illustrativa användningar), men att sätta upp tydliga
-gränser och praxis för när och hur AI-genererade bilder får användas. Ett
-tänkbart scenario är att <i>autentiska fotografier</i> i framtiden åtföljs av
-någon form av digitalt “äkthetscertifikat” (som C2PA) för att skilja dem från
-syntetiska bilder – en slags garantistämpel som kan liknas vid ett etiskt krav
-på sanningsintyg för nyhetsbilder. Vi ser redan att nyhetsbyråer experimenterar
+SÃ¥dana hÃ¤ndelser accentuerar det etiska imperativet fÃ¶r medieorganisationer och
+plattformar att snabbt identifiera och mÃ¤rka eller ta bort manipulerade bilder
+som anvÃ¤nds i vilseledande syfte. SamhÃ¤llets institutioner Â– frÃ¥n skolor till
+nyhetsredaktioner Â– har ett gemensamt etiskt ansvar att <b>fÃ¶rsvara det
+visuella sanningsbegreppet</b>. Det innebÃ¤r inte att fÃ¶rkasta AI-tekniken (den
+har legitima kreativa och illustrativa anvÃ¤ndningar), men att sÃ¤tta upp tydliga
+grÃ¤nser och praxis fÃ¶r nÃ¤r och hur AI-genererade bilder fÃ¥r anvÃ¤ndas. Ett
+tÃ¤nkbart scenario Ã¤r att <i>autentiska fotografier</i> i framtiden Ã¥tfÃ¶ljs av
+nÃ¥gon form av digitalt Â“Ã¤kthetscertifikatÂ” (som C2PA) fÃ¶r att skilja dem frÃ¥n
+syntetiska bilder Â– en slags garantistÃ¤mpel som kan liknas vid ett etiskt krav
+pÃ¥ sanningsintyg fÃ¶r nyhetsbilder. Vi ser redan att nyhetsbyrÃ¥er experimenterar
 med dett&#8203;<a
 href="https://nikonrumors.com/2025/02/18/afp-validates-a-certification-test-of-its-photos-via-the-c2pa-standard-using-a-prototype-nikon-camera.aspx/#:~:text=AFP%20validates%20a%20certification%20test,the%20C2PA%20standard%20using"
 target="_blank">nikonrumors.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.</p>
 
-<p class=MsoNormal>Inom utbildning och folkbildning lyfts också etiken fram:
-att lära ut bildkritik är i sig en etisk gärning då det främjar en mer
-sanningsenlig informationsmiljö. Studenter diskuteras inte bara <i>hur</i> man
-gör utan <i>varför</i> det är viktigt – t.ex. vilka skadeverkningar ett
-obekräftat rykte med en falsk bild kan få för samhällsdebatten eller för en
-oskyldig individ. Genom att exponera unga för resonemang om källkritik och
-integritet kring bilder, hoppas pedagoger fostra en generation som både
-värderar sanningen högre och är svår att lura med falska visuella budska&#8203;<a
+<p class=MsoNormal>Inom utbildning och folkbildning lyfts ocksÃ¥ etiken fram:
+att lÃ¤ra ut bildkritik Ã¤r i sig en etisk gÃ¤rning dÃ¥ det frÃ¤mjar en mer
+sanningsenlig informationsmiljÃ¶. Studenter diskuteras inte bara <i>hur</i> man
+gÃ¶r utan <i>varfÃ¶r</i> det Ã¤r viktigt Â– t.ex. vilka skadeverkningar ett
+obekrÃ¤ftat rykte med en falsk bild kan fÃ¥ fÃ¶r samhÃ¤llsdebatten eller fÃ¶r en
+oskyldig individ. Genom att exponera unga fÃ¶r resonemang om kÃ¤llkritik och
+integritet kring bilder, hoppas pedagoger fostra en generation som bÃ¥de
+vÃ¤rderar sanningen hÃ¶gre och Ã¤r svÃ¥r att lura med falska visuella budska&#8203;<a
 href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=political%20and%20security%20issues,of%20a%20more%20informed%20and"
 target="_blank">frontiersin.org</a>&#8203;<a
 href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=visuals%20to%20shape%20opinions,of%20a%20more%20informed%20and"
@@ -2419,76 +2419,76 @@ minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#
 <p class=MsoNormal><b>Slutsatser<o:p></o:p></b></p>
 
 <p class=MsoNormal>I dagens medielandskap, fyllt av AI-alstrade bilder,
-photoshopade verkligheter och blixtsnabb desinformation, har förmågan att känna
-igen ett autentiskt foto blivit en kritisk färdighet. Denna litteraturöversikt
-har visat att ingen enskild metod räcker: det krävs en kombination av <b>tekniska
+photoshopade verkligheter och blixtsnabb desinformation, har fÃ¶rmÃ¥gan att kÃ¤nna
+igen ett autentiskt foto blivit en kritisk fÃ¤rdighet. Denna litteraturÃ¶versikt
+har visat att ingen enskild metod rÃ¤cker: det krÃ¤vs en kombination av <b>tekniska
 verktyg</b>, <b>kontextuellt detektivarbete</b>, <b>utbildning</b> och <b>etiska
-riktlinjer</b> för att upprätthålla fotografiets trovärdighet. Tekniska
-analyser kan avslöja manipulationer på pixelnivå och upptäcka avvikelser i
-metadata, medan kontextuella kontroller kan bekräfta om bilden överensstämmer
-med verklighetens händelser och källor. Tillsammans utgör de en robust
+riktlinjer</b> fÃ¶r att upprÃ¤tthÃ¥lla fotografiets trovÃ¤rdighet. Tekniska
+analyser kan avslÃ¶ja manipulationer pÃ¥ pixelnivÃ¥ och upptÃ¤cka avvikelser i
+metadata, medan kontextuella kontroller kan bekrÃ¤fta om bilden Ã¶verensstÃ¤mmer
+med verklighetens hÃ¤ndelser och kÃ¤llor. Tillsammans utgÃ¶r de en robust
 verifieringsprocess.</p>
 
 <p class=MsoNormal>Samtidigt understryker forskning mellan 2021 och 2025 att
-det mänskliga omdömet är oersättligt – men också att det mänskliga ögat lätt
-kan luras utan tränin&#8203;<a
+det mÃ¤nskliga omdÃ¶met Ã¤r oersÃ¤ttligt Â– men ocksÃ¥ att det mÃ¤nskliga Ã¶gat lÃ¤tt
+kan luras utan trÃ¤nin&#8203;<a
 href="https://www.sciencedaily.com/releases/2024/03/240306003456.htm#:~:text=Participants%20were%20asked%20to%20label,cent%20threshold%20that%20researchers%20expected"
 target="_blank">sciencedaily.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Därför är mediepedagogiska insatser och träning i visuell läskunnighet så
-centrala. Genom utbildning kan vi höja medvetenheten om vanliga AI-artefakter,
-stärka vanan att kolla upp bildkällor och förhindra att nästa generation
-okritiskt accepterar allt de ser. Fallstudierna visar att även när bluffar
-lyckas ta sig igenom initialt, kan sanningen komma fram med rätt verktyg och
-kompetens. Men de visar också vad som står på spel: felaktiga bilder kan
-förleda allmänheten eller undergräva förtroendet för genuina nyhetsbilder.</p>
+DÃ¤rfÃ¶r Ã¤r mediepedagogiska insatser och trÃ¤ning i visuell lÃ¤skunnighet sÃ¥
+centrala. Genom utbildning kan vi hÃ¶ja medvetenheten om vanliga AI-artefakter,
+stÃ¤rka vanan att kolla upp bildkÃ¤llor och fÃ¶rhindra att nÃ¤sta generation
+okritiskt accepterar allt de ser. Fallstudierna visar att Ã¤ven nÃ¤r bluffar
+lyckas ta sig igenom initialt, kan sanningen komma fram med rÃ¤tt verktyg och
+kompetens. Men de visar ocksÃ¥ vad som stÃ¥r pÃ¥ spel: felaktiga bilder kan
+fÃ¶rleda allmÃ¤nheten eller undergrÃ¤va fÃ¶rtroendet fÃ¶r genuina nyhetsbilder.</p>
 
-<p class=MsoNormal>I en tid av <i>“fake news”</i> och <i>“deepfakes”</i> måste
-fotografin och journalistiken kanske anamma mottot <i>“verify, then trust”</i>
-– lita på bilder först efter verifiering. Tekniska innovationer som
-innehållssignaturer och AI-detektorer kommer sannolikt spela en växande roll
-framöver, men som Pocol et al. (2024) varnar kan vi möta en punkt där
-människor, oavsett träning, fortfarande har svårt att skilja äkta från
+<p class=MsoNormal>I en tid av <i>Â“fake newsÂ”</i> och <i>Â“deepfakesÂ”</i> mÃ¥ste
+fotografin och journalistiken kanske anamma mottot <i>Â“verify, then trustÂ”</i>
+Â– lita pÃ¥ bilder fÃ¶rst efter verifiering. Tekniska innovationer som
+innehÃ¥llssignaturer och AI-detektorer kommer sannolikt spela en vÃ¤xande roll
+framÃ¶ver, men som Pocol et al. (2024) varnar kan vi mÃ¶ta en punkt dÃ¤r
+mÃ¤nniskor, oavsett trÃ¤ning, fortfarande har svÃ¥rt att skilja Ã¤kta frÃ¥n
 falsk&#8203;<a
 href="https://www.sciencedaily.com/releases/2024/03/240306003456.htm#:~:text=cultural%20tool%2C%20which%20could%20see,in%20embarrassing%20or%20compromising%20situations"
 target="_blank">sciencedaily.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.
-Utmaningen blir då att utveckla ännu bättre motmedel i takt med att syntetisk
-bildgenerering avancerar – ett ständigt pågående “AI-kapprustning&#8203;<a
+Utmaningen blir dÃ¥ att utveckla Ã¤nnu bÃ¤ttre motmedel i takt med att syntetisk
+bildgenerering avancerar Â– ett stÃ¤ndigt pÃ¥gÃ¥ende Â“AI-kapprustning&#8203;<a
 href="https://www.sciencedaily.com/releases/2024/03/240306003456.htm#:~:text=,a%20new%20AI%20arms%20race"
 target="_blank">sciencedaily.com</a><span lang=JA style='font-family:"Yu Mincho",serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
 minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span>.</p>
 
-<p class=MsoNormal>För pressfotografer och konstfotografer innebär AI-eran både
-nya möjligheter och behovet av självreflektion kring sin praxis.
-Pressfotografen måste vara noggrannare än någonsin med att leverera
-verifierbara bildbevis och vara öppen med sin arbetsprocess, medan
-konstfotografen kan behöva definiera om sin relation till verkligheten i
-bildskapandet. Lärare i fotografifilosofi har här en gyllene chans att använda
-dessa aktuella frågor som diskussionsstoff: Vad är ett fotografi idag? Hur
+<p class=MsoNormal>FÃ¶r pressfotografer och konstfotografer innebÃ¤r AI-eran bÃ¥de
+nya mÃ¶jligheter och behovet av sjÃ¤lvreflektion kring sin praxis.
+Pressfotografen mÃ¥ste vara noggrannare Ã¤n nÃ¥gonsin med att leverera
+verifierbara bildbevis och vara Ã¶ppen med sin arbetsprocess, medan
+konstfotografen kan behÃ¶va definiera om sin relation till verkligheten i
+bildskapandet. LÃ¤rare i fotografifilosofi har hÃ¤r en gyllene chans att anvÃ¤nda
+dessa aktuella frÃ¥gor som diskussionsstoff: Vad Ã¤r ett fotografi idag? Hur
 bevarar vi fotografiets integritet? Genom en kombination av filosofiska,
-tekniska och etiska diskussioner kan de inspirera studenter att både värna om
-sanningen och utforska kreativiteten, utan att de två kommer i konflikt.</p>
+tekniska och etiska diskussioner kan de inspirera studenter att bÃ¥de vÃ¤rna om
+sanningen och utforska kreativiteten, utan att de tvÃ¥ kommer i konflikt.</p>
 
-<p class=MsoNormal>Avslutningsvis står det klart att förmågan att känna igen
-ett autentiskt foto i media är resultatet av <i>kunskap</i>, <i>verktyg</i> och
-<i>kritiskt tänkande</i> i samverkan. Som mottagare bör vi inte förkasta
-bildernas vittnesbörd, men vi måste lära oss att ställa frågan: <i>“Hur vet jag
-att detta är sant?”</i> Varje bild bär på en berättelse, och det är vårt ansvar
-som konsumenter och förmedlare av bildinformation att se till att berättelsen
-är sann. Med fortsatta forskningsinsatser, teknikutveckling och utbildning kan
-vi förhoppningsvis ligga steget före i kampen mot visuell desinformation och
-därmed bevara fotografiets roll som pålitligt vittne i samhället.</p>
+<p class=MsoNormal>Avslutningsvis stÃ¥r det klart att fÃ¶rmÃ¥gan att kÃ¤nna igen
+ett autentiskt foto i media Ã¤r resultatet av <i>kunskap</i>, <i>verktyg</i> och
+<i>kritiskt tÃ¤nkande</i> i samverkan. Som mottagare bÃ¶r vi inte fÃ¶rkasta
+bildernas vittnesbÃ¶rd, men vi mÃ¥ste lÃ¤ra oss att stÃ¤lla frÃ¥gan: <i>Â“Hur vet jag
+att detta Ã¤r sant?Â”</i> Varje bild bÃ¤r pÃ¥ en berÃ¤ttelse, och det Ã¤r vÃ¥rt ansvar
+som konsumenter och fÃ¶rmedlare av bildinformation att se till att berÃ¤ttelsen
+Ã¤r sann. Med fortsatta forskningsinsatser, teknikutveckling och utbildning kan
+vi fÃ¶rhoppningsvis ligga steget fÃ¶re i kampen mot visuell desinformation och
+dÃ¤rmed bevara fotografiets roll som pÃ¥litligt vittne i samhÃ¤llet.</p>
 
-<p class=MsoNormal><b>Källor:</b></p>
+<p class=MsoNormal><b>KÃ¤llor:</b></p>
 
 <ol style='margin-top:0cm' start=1 type=1>
  <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'>Anastasia
-     Katsaounidou et al., <i>“News authentication and tampered images:
-     evaluating the photo-truth impact through image verification algorithms,”</i>
+     Katsaounidou et al., <i>Â“News authentication and tampered images:
+     evaluating the photo-truth impact through image verification algorithms,Â”</i>
      <b>Heliyon</b> 6(12): e05808, 2020&#8203;<a
      href="https://pubmed.ncbi.nlm.nih.gov/33392404/#:~:text=Photos%20have%20been%20used%20as,term%20refers%20to%20the%20process"
      target="_blank">pubmed.ncbi.nlm.nih.gov</a>&#8203;<a
@@ -2511,8 +2511,8 @@ därmed bevara fotografiets roll som pålitligt vittne i samhället.</p>
      mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span><span
      lang=EN-GB style='mso-ansi-language:EN-GB'>.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span
-     lang=EN-GB style='mso-ansi-language:EN-GB'>Shannon Bond, <i>“AI-generated
-     images are everywhere. Here's how to spot them,”</i> <b>NPR</b>, 13 juni
+     lang=EN-GB style='mso-ansi-language:EN-GB'>Shannon Bond, <i>Â“AI-generated
+     images are everywhere. Here's how to spot them,Â”</i> <b>NPR</b>, 13 juni
      202&#8203;</span><a
      href="https://www.npr.org/2023/06/07/1180768459/how-to-identify-ai-generated-deepfake-images#:~:text=The%20current%20wave%20of%20fake,may%20be%20even%20more%20irregularities"
      target="_blank"><span lang=EN-GB style='mso-ansi-language:EN-GB'>npr.org</span></a><span
@@ -2524,8 +2524,8 @@ därmed bevara fotografiets roll som pålitligt vittne i samhället.</p>
      mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span><span
      lang=EN-GB style='mso-ansi-language:EN-GB'>.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span
-     lang=EN-GB style='mso-ansi-language:EN-GB'>Mohammed Haddad, <i>“Fake
-     Pentagon explosion photo goes viral: How to spot an AI image,”</i> <b>Al
+     lang=EN-GB style='mso-ansi-language:EN-GB'>Mohammed Haddad, <i>Â“Fake
+     Pentagon explosion photo goes viral: How to spot an AI image,Â”</i> <b>Al
      Jazeera</b>, 23 maj 202&#8203;</span><a
      href="https://www.aljazeera.com/news/2023/5/23/fake-pentagon-explosion-photo-goes-viral-how-to-spot-an-ai-image#:~:text=Social%20media%20sleuths%2C%20including%20Nick,problems%20with%20the%20image%2C%20including"
      target="_blank"><span lang=EN-GB style='mso-ansi-language:EN-GB'>aljazeera.com</span></a><span
@@ -2537,8 +2537,8 @@ därmed bevara fotografiets roll som pålitligt vittne i samhället.</p>
      mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span><span
      lang=EN-GB style='mso-ansi-language:EN-GB'>.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span
-     lang=EN-GB style='mso-ansi-language:EN-GB'>Mike Masnick, <i>“Fake Images,
-     Spread On Twitter, Fooled Media, Spooked Stock Market Briefly,”</i> <b>Techdirt</b>,
+     lang=EN-GB style='mso-ansi-language:EN-GB'>Mike Masnick, <i>Â“Fake Images,
+     Spread On Twitter, Fooled Media, Spooked Stock Market Briefly,Â”</i> <b>Techdirt</b>,
      23 maj 202&#8203;</span><a
      href="https://www.techdirt.com/2023/05/23/fake-images-spread-on-twitter-fooled-media-spooked-stock-market-briefly/#:~:text=,incident%20had%20not%20taken%20place"
      target="_blank"><span lang=EN-GB style='mso-ansi-language:EN-GB'>techdirt.com</span></a><span
@@ -2550,8 +2550,8 @@ därmed bevara fotografiets roll som pålitligt vittne i samhället.</p>
      mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span><span
      lang=EN-GB style='mso-ansi-language:EN-GB'>.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span
-     lang=EN-GB style='mso-ansi-language:EN-GB'>TJ Thomson et al., <i>“Generative
-     visual AI in news organizations: challenges and opportunities,”</i> <b>Digital
+     lang=EN-GB style='mso-ansi-language:EN-GB'>TJ Thomson et al., <i>Â“Generative
+     visual AI in news organizations: challenges and opportunities,Â”</i> <b>Digital
      Content Next</b>, 30 apr 202&#8203;</span><a
      href="https://digitalcontentnext.org/blog/2024/04/30/generative-visual-ai-in-news-organizations-challenges-and-opportunities/#:~:text="
      target="_blank"><span lang=EN-GB style='mso-ansi-language:EN-GB'>digitalcontentnext.org</span></a><span
@@ -2563,9 +2563,9 @@ därmed bevara fotografiets roll som pålitligt vittne i samhället.</p>
      mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span><span
      lang=EN-GB style='mso-ansi-language:EN-GB'>.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span
-     lang=EN-GB style='mso-ansi-language:EN-GB'>Abd Allah Aljalabneh, <i>“Visual
+     lang=EN-GB style='mso-ansi-language:EN-GB'>Abd Allah Aljalabneh, <i>Â“Visual
      media literacy: educational strategies to combat image and video
-     disinformation on social media,”</i> <b>Frontiers in Communication</b>,
+     disinformation on social media,Â”</i> <b>Frontiers in Communication</b>,
      vol. 9, 202&#8203;</span><a
      href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1490798/full#:~:text=reverse%20image%20searches%20and%20cross,5"
      target="_blank"><span lang=EN-GB style='mso-ansi-language:EN-GB'>frontiersin.org</span></a><span
@@ -2577,7 +2577,7 @@ därmed bevara fotografiets roll som pålitligt vittne i samhället.</p>
      mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span><span
      lang=EN-GB style='mso-ansi-language:EN-GB'>.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'>Trushar
-     Barot, <i>“Verifying Images”</i> i <b>Verification Handbook</b>,
+     Barot, <i>Â“Verifying ImagesÂ”</i> i <b>Verification Handbook</b>,
      DataJournalism.com (2014/2020&#8203;<a
      href="https://datajournalism.com/read/handbook/verification-1/verifying-images/4-verifying-images#:~:text=Image"
      target="_blank">datajournalism.com</a>&#8203;<a
@@ -2587,9 +2587,9 @@ därmed bevara fotografiets roll som pålitligt vittne i samhället.</p>
      mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
      mso-hansi-theme-font:minor-latin'>&#12305;</span>.</li>
  <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span
-     lang=EN-GB style='mso-ansi-language:EN-GB'>Zoe Williams, <i>“‘AI isn’t a
-     threat’ – Boris Eldagsen, whose fake photo duped the Sony judges, hits
-     back,”</i> <b>The Guardian</b>, 18 apr 202&#8203;</span><a
+     lang=EN-GB style='mso-ansi-language:EN-GB'>Zoe Williams, <i>Â“Â‘AI isnÂ’t a
+     threatÂ’ Â– Boris Eldagsen, whose fake photo duped the Sony judges, hits
+     back,Â”</i> <b>The Guardian</b>, 18 apr 202&#8203;</span><a
      href="https://www.theguardian.com/artanddesign/2023/apr/18/ai-threat-boris-eldagsen-fake-photo-duped-sony-judges-hits-back#:~:text=on%20the%20morning%20after%20the,created%20using%20elements%20of%20AI"
      target="_blank"><span lang=EN-GB style='mso-ansi-language:EN-GB'>theguardian.com</span></a><span
      lang=JA style='font-family:"Yu Mincho",serif;mso-ascii-font-family:Calibri;
@@ -2597,8 +2597,8 @@ därmed bevara fotografiets roll som pålitligt vittne i samhället.</p>
      mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>&#12305;</span><span
      lang=EN-GB style='mso-ansi-language:EN-GB'>.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span
-     lang=EN-GB style='mso-ansi-language:EN-GB'>Emilia David, <i>“The
-     Associated Press sets AI guidelines for journalists,”</i> <b>The Verge</b>,
+     lang=EN-GB style='mso-ansi-language:EN-GB'>Emilia David, <i>Â“The
+     Associated Press sets AI guidelines for journalists,Â”</i> <b>The Verge</b>,
      16 aug 202&#8203;</span><a
      href="https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai#:~:text=Journalists%20for%20AP%20can%20experiment,generated%20photos%20in%20captions"
      target="_blank"><span lang=EN-GB style='mso-ansi-language:EN-GB'>theverge.com</span></a><span
